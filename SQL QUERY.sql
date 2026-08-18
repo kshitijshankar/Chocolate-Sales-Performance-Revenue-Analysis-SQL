@@ -1,17 +1,4 @@
---Idea
---Domain
---Why that Domain?
---Dataset
---Options what all options for dataset
---Why this dataset only ??
---Dataset LINK
---Properties of the dataset using for the project 
---End consumer
---Why End consumer ?
--- Prospective Finalilize 
--- Why you want to follow that Prospective?? 
 
-==============================================================================================================================
 											PROJECT PHASE 1
 
 /* ============================================================
