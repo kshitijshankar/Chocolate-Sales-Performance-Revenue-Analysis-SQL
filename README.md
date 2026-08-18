@@ -1,4 +1,4 @@
-🍫 Chocolate Sales SQL Analytics Project
+# 🍫 **Chocolate Sales SQL Analytics Project** 📊
 
 SQL Portfolio Project --- Sales Performance & Revenue Optimization
 
