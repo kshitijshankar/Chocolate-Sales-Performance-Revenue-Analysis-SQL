@@ -1,0 +1,1095 @@
+Sales_Person,Country,Product,Total_Revenue,Total_Boxes,Total_Transactions,Revenue_Per_Box,Revenue_Per_Transaction
+Ches Bonnell,India,Peanut Butter Cubes,22050,208,1,106.00961538461539,22050.0
+Van Tuxwell,India,Organic Choco Syrup,19929,174,1,114.53448275862068,19929.0
+Rafaelita Blaksland,New Zealand,Eclairs,19481,51,1,381.98039215686276,19481.0
+Van Tuxwell,Australia,Organic Choco Syrup,19453,14,1,1389.5,19453.0
+Curtice Advani,India,Smooth Sliky Salty,19327,135,1,143.16296296296295,19327.0
+Marney O'Breen,UK,Smooth Sliky Salty,18991,88,1,215.8068181818182,18991.0
+Kaine Padly,UK,After Nines,18697,176,1,106.23295454545455,18697.0
+Jan Morforth,New Zealand,Mint Chip Choco,18340,285,1,64.35087719298245,18340.0
+Brien Boise,India,85% Dark Bars,18032,205,1,87.9609756097561,18032.0
+Jan Morforth,Australia,Mint Chip Choco,17626,103,1,171.126213592233,17626.0
+Dennison Crosswaite,USA,Baker's Choco Chips,17465,271,1,64.44649446494465,17465.0
+Kelci Walkden,USA,Manuka Honey Choco,17318,87,1,199.05747126436782,17318.0
+Dotty Strutley,USA,Caramel Stuffed Bars,16982,76,1,223.44736842105263,16982.0
+Brien Boise,Canada,99% Dark & Pure,16793,416,1,40.36778846153846,16793.0
+Kelci Walkden,Canada,After Nines,16702,198,1,84.35353535353535,16702.0
+Ches Bonnell,India,Organic Choco Syrup,16569,99,1,167.36363636363637,16569.0
+Camilla Castle,USA,Manuka Honey Choco,16401,179,1,91.62569832402235,16401.0
+Oby Sorrel,India,Drinking Coco,16380,130,1,126.0,16380.0
+Brien Boise,USA,Organic Choco Syrup,16233,138,1,117.6304347826087,16233.0
+Dotty Strutley,UK,Almond Choco,16114,96,1,167.85416666666666,16114.0
+Kelci Walkden,Canada,Milk Bars,16016,28,1,572.0,16016.0
+Kelci Walkden,New Zealand,Drinking Coco,15855,111,1,142.83783783783784,15855.0
+Mallorie Waber,Australia,Choco Coated Almonds,15750,92,1,171.19565217391303,15750.0
+Karlen McCaffrey,USA,Mint Chip Choco,15652,53,1,295.3207547169811,15652.0
+Ches Bonnell,Canada,Choco Coated Almonds,15547,269,1,57.795539033457246,15547.0
+Kaine Padly,USA,Milk Bars,15491,58,1,267.08620689655174,15491.0
+Rafaelita Blaksland,India,Mint Chip Choco,15491,85,1,182.24705882352941,15491.0
+Barr Faughny,Australia,Fruit & Nut Bars,15421,55,1,280.3818181818182,15421.0
+Brien Boise,UK,Peanut Butter Cubes,15330,30,1,511.0,15330.0
+Oby Sorrel,New Zealand,Organic Choco Syrup,15316,270,1,56.72592592592593,15316.0
+Camilla Castle,New Zealand,85% Dark Bars,15099,55,1,274.5272727272727,15099.0
+Rafaelita Blaksland,USA,Smooth Sliky Salty,15057,212,1,71.02358490566037,15057.0
+Curtice Advani,UK,Peanut Butter Cubes,15008,165,1,90.95757575757575,15008.0
+Brien Boise,New Zealand,Manuka Honey Choco,14980,42,1,356.6666666666667,14980.0
+Husein Augar,UK,Caramel Stuffed Bars,14938,433,1,34.49884526558891,14938.0
+Ches Bonnell,UK,85% Dark Bars,14924,12,1,1243.6666666666667,14924.0
+Husein Augar,Australia,50% Dark Bites,14889,52,1,286.3269230769231,14889.0
+Beverie Moffet,USA,Raspberry Choco,14798,83,1,178.289156626506,14798.0
+Madelene Upcott,Canada,Peanut Butter Cubes,14763,113,1,130.64601769911505,14763.0
+Karlen McCaffrey,USA,Raspberry Choco,14749,354,1,41.663841807909606,14749.0
+Mallorie Waber,Australia,Orange Choco,14658,275,1,53.301818181818184,14658.0
+Madelene Upcott,UK,Smooth Sliky Salty,14539,84,1,173.08333333333334,14539.0
+Ches Bonnell,USA,Choco Coated Almonds,14525,92,1,157.8804347826087,14525.0
+Andria Kimpton,USA,Raspberry Choco,14504,21,1,690.6666666666666,14504.0
+Andria Kimpton,UK,Milk Bars,14336,293,1,48.9283276450512,14336.0
+Brien Boise,USA,Milk Bars,14301,130,1,110.00769230769231,14301.0
+Beverie Moffet,Canada,Smooth Sliky Salty,14287,370,1,38.61351351351351,14287.0
+Ches Bonnell,UK,Orange Choco,14238,54,1,263.6666666666667,14238.0
+Curtice Advani,USA,After Nines,14147,235,1,60.2,14147.0
+Roddy Speechley,UK,Baker's Choco Chips,14028,351,1,39.965811965811966,14028.0
+Beverie Moffet,USA,Peanut Butter Cubes,13930,339,1,41.091445427728615,13930.0
+Gunar Cockshoot,Canada,Fruit & Nut Bars,13888,203,1,68.41379310344827,13888.0
+Dennison Crosswaite,Australia,Baker's Choco Chips,13846,421,1,32.888361045130644,13846.0
+Jan Morforth,India,Baker's Choco Chips,13727,79,1,173.7594936708861,13727.0
+Van Tuxwell,India,After Nines,13706,207,1,66.21256038647343,13706.0
+Jehu Rudeforth,Australia,Orange Choco,13706,26,1,527.1538461538462,13706.0
+Jehu Rudeforth,UK,Peanut Butter Cubes,13685,184,1,74.375,13685.0
+Oby Sorrel,UK,99% Dark & Pure,13685,176,1,77.75568181818181,13685.0
+Van Tuxwell,Canada,50% Dark Bites,13685,58,1,235.94827586206895,13685.0
+Dennison Crosswaite,India,Mint Chip Choco,13573,138,1,98.35507246376811,13573.0
+Brien Boise,India,Milk Bars,13503,251,1,53.79681274900398,13503.0
+Andria Kimpton,India,50% Dark Bites,13482,15,1,898.8,13482.0
+Beverie Moffet,Canada,Baker's Choco Chips,13447,95,1,141.54736842105262,13447.0
+Gunar Cockshoot,Canada,Spicy Special Slims,13405,12,1,1117.0833333333333,13405.0
+Madelene Upcott,New Zealand,70% Dark Bites,13356,93,1,143.61290322580646,13356.0
+Van Tuxwell,Australia,Baker's Choco Chips,13258,32,1,414.3125,13258.0
+Marney O'Breen,Australia,Spicy Special Slims,13125,275,1,47.72727272727273,13125.0
+Rafaelita Blaksland,New Zealand,Caramel Stuffed Bars,13083,14,1,934.5,13083.0
+Marney O'Breen,Australia,Manuka Honey Choco,13076,236,1,55.40677966101695,13076.0
+Gunar Cockshoot,New Zealand,Choco Coated Almonds,13062,62,1,210.67741935483872,13062.0
+Barr Faughny,USA,50% Dark Bites,13034,117,1,111.4017094017094,13034.0
+Kelci Walkden,UK,Fruit & Nut Bars,13006,482,1,26.983402489626556,13006.0
+Gunar Cockshoot,India,50% Dark Bites,12992,83,1,156.53012048192772,12992.0
+Kaine Padly,New Zealand,Eclairs,12894,48,1,268.625,12894.0
+Barr Faughny,USA,85% Dark Bars,12761,47,1,271.51063829787233,12761.0
+Jan Morforth,Australia,Peanut Butter Cubes,12726,342,1,37.21052631578947,12726.0
+Dennison Crosswaite,USA,Organic Choco Syrup,12656,126,1,100.44444444444444,12656.0
+Roddy Speechley,UK,Raspberry Choco,12635,194,1,65.12886597938144,12635.0
+Van Tuxwell,USA,99% Dark & Pure,12586,6,1,2097.6666666666665,12586.0
+Curtice Advani,Canada,99% Dark & Pure,12586,7,1,1798.0,12586.0
+Roddy Speechley,Australia,Drinking Coco,12565,102,1,123.18627450980392,12565.0
+Madelene Upcott,New Zealand,Milk Bars,12558,403,1,31.161290322580644,12558.0
+Brien Boise,Australia,Baker's Choco Chips,12516,212,1,59.0377358490566,12516.0
+Gunar Cockshoot,UK,Spicy Special Slims,12488,200,1,62.44,12488.0
+Camilla Castle,Canada,Drinking Coco,12481,264,1,47.27651515151515,12481.0
+Rafaelita Blaksland,UK,99% Dark & Pure,12446,150,1,82.97333333333333,12446.0
+Oby Sorrel,Canada,Peanut Butter Cubes,12425,167,1,74.40119760479043,12425.0
+Beverie Moffet,USA,85% Dark Bars,12404,334,1,37.137724550898206,12404.0
+Gigi Bohling,UK,85% Dark Bars,12362,94,1,131.51063829787233,12362.0
+Dotty Strutley,India,White Choc,12327,330,1,37.35454545454545,12327.0
+Gigi Bohling,USA,Choco Coated Almonds,12313,103,1,119.54368932038835,12313.0
+Gunar Cockshoot,Australia,50% Dark Bites,12271,116,1,105.78448275862068,12271.0
+Madelene Upcott,USA,White Choc,12250,213,1,57.51173708920188,12250.0
+Dennison Crosswaite,UK,99% Dark & Pure,12187,27,1,451.3703703703704,12187.0
+Kaine Padly,India,70% Dark Bites,12173,301,1,40.44186046511628,12173.0
+Jehu Rudeforth,UK,Milk Bars,12068,227,1,53.16299559471366,12068.0
+Wilone O'Kielt,India,After Nines,12026,262,1,45.900763358778626,12026.0
+Gigi Bohling,Canada,Spicy Special Slims,11956,277,1,43.16245487364621,11956.0
+Camilla Castle,India,Peanut Butter Cubes,11837,277,1,42.73285198555957,11837.0
+Oby Sorrel,New Zealand,Baker's Choco Chips,11823,47,1,251.5531914893617,11823.0
+Ches Bonnell,India,Almond Choco,11788,73,1,161.4794520547945,11788.0
+Dennison Crosswaite,USA,Smooth Sliky Salty,11781,91,1,129.46153846153845,11781.0
+Dennison Crosswaite,USA,Almond Choco,11718,84,1,139.5,11718.0
+Wilone O'Kielt,New Zealand,Mint Chip Choco,11662,242,1,48.1900826446281,11662.0
+Husein Augar,USA,After Nines,11571,180,1,64.28333333333333,11571.0
+Camilla Castle,New Zealand,Spicy Special Slims,11564,24,1,481.8333333333333,11564.0
+Rafaelita Blaksland,Australia,Drinking Coco,11550,396,1,29.166666666666668,11550.0
+Dotty Strutley,Canada,Manuka Honey Choco,11550,111,1,104.05405405405405,11550.0
+Oby Sorrel,Australia,Spicy Special Slims,11389,26,1,438.03846153846155,11389.0
+Marney O'Breen,UK,Orange Choco,11319,12,1,943.25,11319.0
+Ches Bonnell,India,50% Dark Bites,11298,313,1,36.09584664536741,11298.0
+Jan Morforth,India,Smooth Sliky Salty,11298,89,1,126.9438202247191,11298.0
+Marney O'Breen,Australia,Choco Coated Almonds,11298,41,1,275.5609756097561,11298.0
+Beverie Moffet,New Zealand,85% Dark Bars,11200,22,1,509.09090909090907,11200.0
+Oby Sorrel,India,Spicy Special Slims,11137,88,1,126.55681818181819,11137.0
+Kelci Walkden,Australia,Orange Choco,11116,432,1,25.73148148148148,11116.0
+Karlen McCaffrey,USA,Orange Choco,11095,401,1,27.668329177057355,11095.0
+Karlen McCaffrey,India,Mint Chip Choco,10990,184,1,59.72826086956522,10990.0
+Marney O'Breen,UK,Manuka Honey Choco,10983,179,1,61.357541899441344,10983.0
+Gigi Bohling,New Zealand,Fruit & Nut Bars,10976,121,1,90.7107438016529,10976.0
+Barr Faughny,Canada,Baker's Choco Chips,10969,170,1,64.52352941176471,10969.0
+Curtice Advani,UK,Fruit & Nut Bars,10927,136,1,80.34558823529412,10927.0
+Madelene Upcott,Canada,70% Dark Bites,10927,141,1,77.49645390070921,10927.0
+Ches Bonnell,India,Spicy Special Slims,10906,94,1,116.02127659574468,10906.0
+Dennison Crosswaite,Canada,85% Dark Bars,10885,90,1,120.94444444444444,10885.0
+Gigi Bohling,USA,Spicy Special Slims,10829,54,1,200.53703703703704,10829.0
+Beverie Moffet,New Zealand,Peanut Butter Cubes,10822,30,1,360.73333333333335,10822.0
+Karlen McCaffrey,Australia,99% Dark & Pure,10822,168,1,64.41666666666667,10822.0
+Husein Augar,UK,White Choc,10815,145,1,74.58620689655173,10815.0
+Dennison Crosswaite,UK,Milk Bars,10808,407,1,26.555282555282556,10808.0
+Madelene Upcott,New Zealand,White Choc,10794,51,1,211.64705882352942,10794.0
+Madelene Upcott,Australia,Organic Choco Syrup,10794,50,1,215.88,10794.0
+Marney O'Breen,India,99% Dark & Pure,10766,157,1,68.5732484076433,10766.0
+Dotty Strutley,New Zealand,99% Dark & Pure,10724,203,1,52.827586206896555,10724.0
+Van Tuxwell,UK,Almond Choco,10689,204,1,52.39705882352941,10689.0
+Roddy Speechley,India,Spicy Special Slims,10647,173,1,61.543352601156066,10647.0
+Kelci Walkden,New Zealand,Smooth Sliky Salty,10633,277,1,38.38628158844765,10633.0
+Brien Boise,USA,Mint Chip Choco,10577,150,1,70.51333333333334,10577.0
+Beverie Moffet,Australia,Smooth Sliky Salty,10507,467,1,22.498929336188436,10507.0
+Van Tuxwell,India,Eclairs,10500,106,1,99.05660377358491,10500.0
+Jehu Rudeforth,Australia,99% Dark & Pure,10486,198,1,52.95959595959596,10486.0
+Madelene Upcott,UK,99% Dark & Pure,10479,45,1,232.86666666666667,10479.0
+Dennison Crosswaite,Canada,Choco Coated Almonds,10479,118,1,88.80508474576271,10479.0
+Roddy Speechley,USA,50% Dark Bites,10458,316,1,33.09493670886076,10458.0
+Mallorie Waber,India,Eclairs,10437,46,1,226.8913043478261,10437.0
+Beverie Moffet,Canada,Fruit & Nut Bars,10332,180,1,57.4,10332.0
+Beverie Moffet,India,Eclairs,10325,147,1,70.23809523809524,10325.0
+Roddy Speechley,India,Peanut Butter Cubes,10283,21,1,489.6666666666667,10283.0
+Andria Kimpton,Canada,70% Dark Bites,10262,15,1,684.1333333333333,10262.0
+Oby Sorrel,India,99% Dark & Pure,10255,11,1,932.2727272727273,10255.0
+Brien Boise,Canada,85% Dark Bars,10241,259,1,39.54054054054054,10241.0
+Dotty Strutley,USA,85% Dark Bars,10220,508,1,20.118110236220474,10220.0
+Kaine Padly,Canada,Manuka Honey Choco,10213,135,1,75.65185185185184,10213.0
+Ches Bonnell,Australia,Peanut Butter Cubes,10199,68,1,149.98529411764707,10199.0
+Kaine Padly,UK,Caramel Stuffed Bars,10192,67,1,152.11940298507463,10192.0
+Barr Faughny,Canada,50% Dark Bites,10185,303,1,33.613861386138616,10185.0
+Karlen McCaffrey,USA,Manuka Honey Choco,10171,67,1,151.80597014925374,10171.0
+Madelene Upcott,UK,Choco Coated Almonds,10164,134,1,75.85074626865672,10164.0
+Rafaelita Blaksland,UK,50% Dark Bites,10150,68,1,149.26470588235293,10150.0
+Madelene Upcott,USA,Almond Choco,10143,24,1,422.625,10143.0
+Jehu Rudeforth,India,Almond Choco,10122,100,1,101.22,10122.0
+Oby Sorrel,India,Smooth Sliky Salty,10101,108,1,93.52777777777777,10101.0
+Dennison Crosswaite,Australia,Milk Bars,10038,286,1,35.0979020979021,10038.0
+Wilone O'Kielt,Australia,50% Dark Bites,10031,114,1,87.99122807017544,10031.0
+Barr Faughny,New Zealand,After Nines,10024,84,1,119.33333333333333,10024.0
+Gigi Bohling,Canada,Almond Choco,9989,49,1,203.85714285714286,9989.0
+Camilla Castle,UK,White Choc,9982,187,1,53.37967914438503,9982.0
+Husein Augar,India,Raspberry Choco,9954,154,1,64.63636363636364,9954.0
+Rafaelita Blaksland,Canada,Drinking Coco,9884,200,1,49.42,9884.0
+Kelci Walkden,USA,Organic Choco Syrup,9870,152,1,64.9342105263158,9870.0
+Ches Bonnell,Canada,Smooth Sliky Salty,9870,121,1,81.5702479338843,9870.0
+Beverie Moffet,India,Manuka Honey Choco,9835,167,1,58.89221556886228,9835.0
+Husein Augar,Canada,After Nines,9772,301,1,32.46511627906977,9772.0
+Curtice Advani,New Zealand,50% Dark Bites,9765,85,1,114.88235294117646,9765.0
+Jan Morforth,UK,Almond Choco,9744,157,1,62.06369426751592,9744.0
+Andria Kimpton,Australia,Manuka Honey Choco,9744,377,1,25.846153846153847,9744.0
+Van Tuxwell,USA,50% Dark Bites,9737,160,1,60.85625,9737.0
+Camilla Castle,Canada,70% Dark Bites,9716,151,1,64.34437086092716,9716.0
+Camilla Castle,USA,White Choc,9681,24,1,403.375,9681.0
+Ches Bonnell,Australia,Mint Chip Choco,9660,92,1,105.0,9660.0
+Van Tuxwell,New Zealand,Baker's Choco Chips,9660,24,1,402.5,9660.0
+Oby Sorrel,UK,Smooth Sliky Salty,9625,313,1,30.750798722044728,9625.0
+Ches Bonnell,India,Choco Coated Almonds,9625,78,1,123.3974358974359,9625.0
+Roddy Speechley,USA,Manuka Honey Choco,9583,315,1,30.42222222222222,9583.0
+Jan Morforth,Canada,Caramel Stuffed Bars,9541,114,1,83.69298245614036,9541.0
+Husein Augar,USA,99% Dark & Pure,9534,111,1,85.89189189189189,9534.0
+Mallorie Waber,Australia,Eclairs,9527,222,1,42.914414414414416,9527.0
+Kelci Walkden,UK,Choco Coated Almonds,9506,212,1,44.839622641509436,9506.0
+Dennison Crosswaite,New Zealand,White Choc,9492,151,1,62.86092715231788,9492.0
+Wilone O'Kielt,USA,Choco Coated Almonds,9457,6,1,1576.1666666666667,9457.0
+Mallorie Waber,New Zealand,Manuka Honey Choco,9436,11,1,857.8181818181819,9436.0
+Kelci Walkden,USA,White Choc,9422,22,1,428.27272727272725,9422.0
+Kelci Walkden,India,Orange Choco,9408,138,1,68.17391304347827,9408.0
+Rafaelita Blaksland,UK,Spicy Special Slims,9345,133,1,70.26315789473684,9345.0
+Roddy Speechley,Canada,Smooth Sliky Salty,9338,11,1,848.9090909090909,9338.0
+Oby Sorrel,UK,Choco Coated Almonds,9324,41,1,227.41463414634146,9324.0
+Dotty Strutley,UK,99% Dark & Pure,9310,282,1,33.01418439716312,9310.0
+Barr Faughny,USA,Raspberry Choco,9282,101,1,91.9009900990099,9282.0
+Beverie Moffet,Canada,White Choc,9275,173,1,53.61271676300578,9275.0
+Camilla Castle,India,50% Dark Bites,9275,411,1,22.5669099756691,9275.0
+Barr Faughny,Australia,Raspberry Choco,9268,100,1,92.68,9268.0
+Madelene Upcott,New Zealand,Raspberry Choco,9226,415,1,22.23132530120482,9226.0
+Gunar Cockshoot,New Zealand,Fruit & Nut Bars,9205,419,1,21.968973747016708,9205.0
+Wilone O'Kielt,New Zealand,Almond Choco,9198,144,1,63.875,9198.0
+Curtice Advani,Australia,Caramel Stuffed Bars,9114,140,1,65.1,9114.0
+Dotty Strutley,India,Peanut Butter Cubes,9107,73,1,124.75342465753425,9107.0
+Jan Morforth,India,99% Dark & Pure,9100,187,1,48.663101604278076,9100.0
+Ches Bonnell,New Zealand,Mint Chip Choco,9058,229,1,39.55458515283843,9058.0
+Barr Faughny,USA,Fruit & Nut Bars,9058,46,1,196.91304347826087,9058.0
+Andria Kimpton,UK,White Choc,9037,101,1,89.47524752475248,9037.0
+Jan Morforth,USA,Peanut Butter Cubes,9037,102,1,88.59803921568627,9037.0
+Gigi Bohling,UK,Baker's Choco Chips,9023,409,1,22.061124694376527,9023.0
+Camilla Castle,India,85% Dark Bars,9023,51,1,176.92156862745097,9023.0
+Kaine Padly,UK,Smooth Sliky Salty,9016,554,1,16.27436823104693,9016.0
+Kaine Padly,Australia,50% Dark Bites,8995,78,1,115.32051282051282,8995.0
+Oby Sorrel,India,85% Dark Bars,8981,130,1,69.08461538461539,8981.0
+Marney O'Breen,New Zealand,Fruit & Nut Bars,8939,4,1,2234.75,8939.0
+Dennison Crosswaite,UK,Peanut Butter Cubes,8925,158,1,56.4873417721519,8925.0
+Andria Kimpton,USA,85% Dark Bars,8911,82,1,108.67073170731707,8911.0
+Roddy Speechley,India,Caramel Stuffed Bars,8911,543,1,16.410681399631677,8911.0
+Jan Morforth,Canada,Fruit & Nut Bars,8904,199,1,44.743718592964825,8904.0
+Husein Augar,Australia,Orange Choco,8897,188,1,47.32446808510638,8897.0
+Madelene Upcott,USA,Eclairs,8883,200,1,44.415,8883.0
+Andria Kimpton,New Zealand,Mint Chip Choco,8848,211,1,41.93364928909953,8848.0
+Jan Morforth,UK,White Choc,8799,47,1,187.2127659574468,8799.0
+Beverie Moffet,Canada,Milk Bars,8799,250,1,35.196,8799.0
+Jehu Rudeforth,India,Eclairs,8771,127,1,69.06299212598425,8771.0
+Oby Sorrel,Canada,Orange Choco,8757,338,1,25.90828402366864,8757.0
+Ches Bonnell,Australia,Caramel Stuffed Bars,8757,162,1,54.05555555555556,8757.0
+Beverie Moffet,Canada,Orange Choco,8722,109,1,80.01834862385321,8722.0
+Kelci Walkden,Australia,White Choc,8715,168,1,51.875,8715.0
+Kaine Padly,Canada,50% Dark Bites,8687,100,1,86.87,8687.0
+Beverie Moffet,UK,Spicy Special Slims,8680,252,1,34.44444444444444,8680.0
+Oby Sorrel,New Zealand,Smooth Sliky Salty,8673,60,1,144.55,8673.0
+Jehu Rudeforth,Australia,Milk Bars,8659,29,1,298.58620689655174,8659.0
+Marney O'Breen,New Zealand,Organic Choco Syrup,8624,50,1,172.48,8624.0
+Van Tuxwell,Canada,Manuka Honey Choco,8617,46,1,187.32608695652175,8617.0
+Marney O'Breen,New Zealand,70% Dark Bites,8603,352,1,24.44034090909091,8603.0
+Jehu Rudeforth,UK,Fruit & Nut Bars,8589,229,1,37.506550218340614,8589.0
+Brien Boise,Australia,Fruit & Nut Bars,8575,23,1,372.82608695652175,8575.0
+Rafaelita Blaksland,USA,Drinking Coco,8526,73,1,116.79452054794521,8526.0
+Madelene Upcott,UK,Fruit & Nut Bars,8512,189,1,45.03703703703704,8512.0
+Barr Faughny,Australia,85% Dark Bars,8498,44,1,193.13636363636363,8498.0
+Dennison Crosswaite,Canada,Organic Choco Syrup,8491,75,1,113.21333333333334,8491.0
+Marney O'Breen,New Zealand,Smooth Sliky Salty,8484,57,1,148.8421052631579,8484.0
+Marney O'Breen,USA,Baker's Choco Chips,8470,9,1,941.1111111111111,8470.0
+Beverie Moffet,UK,Eclairs,8463,155,1,54.6,8463.0
+Dennison Crosswaite,India,Organic Choco Syrup,8428,216,1,39.01851851851852,8428.0
+Mallorie Waber,Australia,Raspberry Choco,8400,27,1,311.1111111111111,8400.0
+Andria Kimpton,USA,Caramel Stuffed Bars,8393,46,1,182.45652173913044,8393.0
+Mallorie Waber,UK,Manuka Honey Choco,8379,43,1,194.86046511627907,8379.0
+Marney O'Breen,New Zealand,Peanut Butter Cubes,8379,173,1,48.433526011560694,8379.0
+Roddy Speechley,India,50% Dark Bites,8337,12,1,694.75,8337.0
+Husein Augar,UK,Almond Choco,8309,166,1,50.05421686746988,8309.0
+Ches Bonnell,New Zealand,Drinking Coco,8302,131,1,63.37404580152672,8302.0
+Gigi Bohling,New Zealand,Manuka Honey Choco,8267,272,1,30.393382352941178,8267.0
+Dotty Strutley,Australia,Spicy Special Slims,8225,91,1,90.38461538461539,8225.0
+Andria Kimpton,Canada,Organic Choco Syrup,8204,204,1,40.21568627450981,8204.0
+Gigi Bohling,New Zealand,Orange Choco,8204,307,1,26.72312703583062,8204.0
+Gigi Bohling,UK,50% Dark Bites,8197,69,1,118.79710144927536,8197.0
+Barr Faughny,India,After Nines,8190,109,1,75.13761467889908,8190.0
+Kelci Walkden,India,Raspberry Choco,8183,254,1,32.21653543307087,8183.0
+Andria Kimpton,New Zealand,Orange Choco,8169,88,1,92.82954545454545,8169.0
+Curtice Advani,India,Mint Chip Choco,8155,96,1,84.94791666666667,8155.0
+Roddy Speechley,Canada,Orange Choco,8148,85,1,95.85882352941177,8148.0
+Barr Faughny,New Zealand,99% Dark & Pure,8134,195,1,41.712820512820514,8134.0
+Marney O'Breen,UK,99% Dark & Pure,8113,194,1,41.81958762886598,8113.0
+Barr Faughny,Australia,White Choc,8113,370,1,21.927027027027027,8113.0
+Brien Boise,Canada,Spicy Special Slims,8106,101,1,80.25742574257426,8106.0
+Kelci Walkden,Canada,Smooth Sliky Salty,8099,118,1,68.63559322033899,8099.0
+Jan Morforth,India,Peanut Butter Cubes,8092,178,1,45.46067415730337,8092.0
+Rafaelita Blaksland,India,Spicy Special Slims,8064,134,1,60.17910447761194,8064.0
+Ches Bonnell,India,Smooth Sliky Salty,8043,18,1,446.8333333333333,8043.0
+Gigi Bohling,UK,After Nines,8029,175,1,45.88,8029.0
+Kaine Padly,UK,Choco Coated Almonds,8022,123,1,65.21951219512195,8022.0
+Roddy Speechley,New Zealand,After Nines,8001,10,1,800.1,8001.0
+Oby Sorrel,USA,Baker's Choco Chips,8001,120,1,66.675,8001.0
+Gigi Bohling,Australia,Caramel Stuffed Bars,8001,151,1,52.98675496688742,8001.0
+Oby Sorrel,UK,Organic Choco Syrup,7980,157,1,50.82802547770701,7980.0
+Husein Augar,Australia,Fruit & Nut Bars,7959,53,1,150.16981132075472,7959.0
+Curtice Advani,New Zealand,After Nines,7959,30,1,265.3,7959.0
+Gunar Cockshoot,Australia,99% Dark & Pure,7952,235,1,33.838297872340426,7952.0
+Andria Kimpton,UK,Caramel Stuffed Bars,7924,275,1,28.814545454545456,7924.0
+Kelci Walkden,Australia,Milk Bars,7910,125,1,63.28,7910.0
+Van Tuxwell,Australia,Milk Bars,7910,87,1,90.91954022988506,7910.0
+Van Tuxwell,India,85% Dark Bars,7896,94,1,84.0,7896.0
+Mallorie Waber,Australia,Almond Choco,7882,125,1,63.056,7882.0
+Karlen McCaffrey,UK,Eclairs,7798,196,1,39.785714285714285,7798.0
+Marney O'Breen,USA,Almond Choco,7798,167,1,46.69461077844311,7798.0
+Camilla Castle,Canada,Orange Choco,7770,54,1,143.88888888888889,7770.0
+Madelene Upcott,UK,Peanut Butter Cubes,7756,85,1,91.24705882352941,7756.0
+Gunar Cockshoot,Canada,Mint Chip Choco,7756,410,1,18.917073170731708,7756.0
+Madelene Upcott,USA,Orange Choco,7742,138,1,56.10144927536232,7742.0
+Kaine Padly,New Zealand,Spicy Special Slims,7728,37,1,208.86486486486487,7728.0
+Ches Bonnell,USA,Organic Choco Syrup,7721,14,1,551.5,7721.0
+Karlen McCaffrey,Canada,70% Dark Bites,7714,597,1,12.921273031825796,7714.0
+Oby Sorrel,USA,Drinking Coco,7714,44,1,175.3181818181818,7714.0
+Kelci Walkden,USA,99% Dark & Pure,7714,238,1,32.411764705882355,7714.0
+Mallorie Waber,New Zealand,85% Dark Bars,7714,106,1,72.77358490566037,7714.0
+Oby Sorrel,Australia,Milk Bars,7672,254,1,30.20472440944882,7672.0
+Kaine Padly,Australia,Eclairs,7672,115,1,66.71304347826087,7672.0
+Kaine Padly,USA,Eclairs,7623,10,1,762.3,7623.0
+Ches Bonnell,New Zealand,Organic Choco Syrup,7623,85,1,89.68235294117648,7623.0
+Kelci Walkden,New Zealand,White Choc,7609,150,1,50.72666666666667,7609.0
+Barr Faughny,Canada,Orange Choco,7602,18,1,422.3333333333333,7602.0
+Madelene Upcott,Canada,Almond Choco,7602,102,1,74.52941176470588,7602.0
+Marney O'Breen,USA,Orange Choco,7595,181,1,41.96132596685083,7595.0
+Ches Bonnell,New Zealand,Caramel Stuffed Bars,7588,42,1,180.66666666666666,7588.0
+Gunar Cockshoot,Canada,White Choc,7560,15,1,504.0,7560.0
+Kelci Walkden,India,Drinking Coco,7532,234,1,32.18803418803419,7532.0
+Kelci Walkden,Canada,Peanut Butter Cubes,7532,44,1,171.1818181818182,7532.0
+Madelene Upcott,Canada,85% Dark Bars,7504,101,1,74.29702970297029,7504.0
+Marney O'Breen,New Zealand,Milk Bars,7490,315,1,23.77777777777778,7490.0
+Ches Bonnell,Australia,Smooth Sliky Salty,7490,54,1,138.7037037037037,7490.0
+Roddy Speechley,New Zealand,99% Dark & Pure,7483,183,1,40.89071038251366,7483.0
+Karlen McCaffrey,India,White Choc,7483,232,1,32.25431034482759,7483.0
+Ches Bonnell,Canada,Baker's Choco Chips,7462,371,1,20.11320754716981,7462.0
+Kaine Padly,Australia,Fruit & Nut Bars,7434,85,1,87.45882352941176,7434.0
+Barr Faughny,USA,White Choc,7420,163,1,45.52147239263804,7420.0
+Madelene Upcott,New Zealand,Mint Chip Choco,7413,4,1,1853.25,7413.0
+Barr Faughny,India,Mint Chip Choco,7413,465,1,15.941935483870967,7413.0
+Camilla Castle,Australia,Smooth Sliky Salty,7406,118,1,62.76271186440678,7406.0
+Gigi Bohling,USA,70% Dark Bites,7364,196,1,37.57142857142857,7364.0
+Madelene Upcott,UK,Raspberry Choco,7357,341,1,21.574780058651026,7357.0
+Karlen McCaffrey,Australia,White Choc,7357,48,1,153.27083333333334,7357.0
+Madelene Upcott,Australia,50% Dark Bites,7350,6,1,1225.0,7350.0
+Oby Sorrel,UK,Orange Choco,7315,237,1,30.864978902953588,7315.0
+Karlen McCaffrey,Australia,Almond Choco,7294,128,1,56.984375,7294.0
+Dennison Crosswaite,Australia,50% Dark Bites,7287,12,1,607.25,7287.0
+Kelci Walkden,Australia,Eclairs,7273,547,1,13.296160877513712,7273.0
+Gigi Bohling,Australia,Eclairs,7252,136,1,53.3235294117647,7252.0
+Dennison Crosswaite,UK,White Choc,7238,265,1,27.31320754716981,7238.0
+Brien Boise,New Zealand,70% Dark Bites,7231,130,1,55.62307692307692,7231.0
+Kaine Padly,New Zealand,70% Dark Bites,7231,38,1,190.28947368421052,7231.0
+Jehu Rudeforth,Canada,Milk Bars,7203,12,1,600.25,7203.0
+Gunar Cockshoot,India,Organic Choco Syrup,7196,160,1,44.975,7196.0
+Madelene Upcott,Australia,Spicy Special Slims,7182,408,1,17.602941176470587,7182.0
+Gunar Cockshoot,New Zealand,After Nines,7175,145,1,49.48275862068966,7175.0
+Husein Augar,Australia,Manuka Honey Choco,7161,92,1,77.83695652173913,7161.0
+Andria Kimpton,Canada,Caramel Stuffed Bars,7154,348,1,20.557471264367816,7154.0
+Curtice Advani,India,White Choc,7154,342,1,20.91812865497076,7154.0
+Jehu Rudeforth,USA,Raspberry Choco,7154,133,1,53.78947368421053,7154.0
+Jehu Rudeforth,UK,Drinking Coco,7140,438,1,16.301369863013697,7140.0
+Kaine Padly,UK,Manuka Honey Choco,7133,118,1,60.44915254237288,7133.0
+Beverie Moffet,New Zealand,White Choc,7126,7,1,1018.0,7126.0
+Rafaelita Blaksland,Canada,Caramel Stuffed Bars,7119,101,1,70.48514851485149,7119.0
+Dennison Crosswaite,Australia,Drinking Coco,7091,194,1,36.55154639175258,7091.0
+Van Tuxwell,Canada,70% Dark Bites,7077,77,1,91.9090909090909,7077.0
+Van Tuxwell,Australia,70% Dark Bites,7063,104,1,67.91346153846153,7063.0
+Wilone O'Kielt,USA,Orange Choco,7042,37,1,190.32432432432432,7042.0
+Dotty Strutley,New Zealand,White Choc,7014,60,1,116.9,7014.0
+Gunar Cockshoot,USA,85% Dark Bars,7007,135,1,51.903703703703705,7007.0
+Husein Augar,Australia,Eclairs,6993,31,1,225.58064516129033,6993.0
+Mallorie Waber,USA,Almond Choco,6986,368,1,18.983695652173914,6986.0
+Curtice Advani,Australia,Milk Bars,6979,18,1,387.72222222222223,6979.0
+Dotty Strutley,Australia,Eclairs,6979,3,1,2326.3333333333335,6979.0
+Jehu Rudeforth,New Zealand,85% Dark Bars,6972,89,1,78.33707865168539,6972.0
+Madelene Upcott,UK,Organic Choco Syrup,6965,163,1,42.73006134969325,6965.0
+Oby Sorrel,Australia,85% Dark Bars,6944,27,1,257.18518518518516,6944.0
+Brien Boise,Canada,Manuka Honey Choco,6930,182,1,38.07692307692308,6930.0
+Rafaelita Blaksland,Australia,Raspberry Choco,6916,259,1,26.7027027027027,6916.0
+Kelci Walkden,Australia,After Nines,6916,288,1,24.01388888888889,6916.0
+Gunar Cockshoot,USA,Eclairs,6916,42,1,164.66666666666666,6916.0
+Dennison Crosswaite,India,99% Dark & Pure,6888,311,1,22.14790996784566,6888.0
+Brien Boise,Australia,Eclairs,6888,88,1,78.27272727272727,6888.0
+Dennison Crosswaite,Australia,85% Dark Bars,6881,420,1,16.383333333333333,6881.0
+Gunar Cockshoot,New Zealand,Spicy Special Slims,6867,183,1,37.52459016393443,6867.0
+Ches Bonnell,India,Caramel Stuffed Bars,6839,56,1,122.125,6839.0
+Karlen McCaffrey,UK,Almond Choco,6839,133,1,51.421052631578945,6839.0
+Oby Sorrel,India,Raspberry Choco,6832,46,1,148.52173913043478,6832.0
+Brien Boise,Australia,Drinking Coco,6832,156,1,43.794871794871796,6832.0
+Kaine Padly,Australia,After Nines,6832,306,1,22.326797385620914,6832.0
+Rafaelita Blaksland,Australia,White Choc,6818,102,1,66.84313725490196,6818.0
+Gunar Cockshoot,UK,Raspberry Choco,6811,344,1,19.799418604651162,6811.0
+Roddy Speechley,Australia,Mint Chip Choco,6797,252,1,26.97222222222222,6797.0
+Beverie Moffet,Australia,Organic Choco Syrup,6790,356,1,19.073033707865168,6790.0
+Dotty Strutley,Australia,Mint Chip Choco,6790,25,1,271.6,6790.0
+Kaine Padly,USA,Peanut Butter Cubes,6790,188,1,36.11702127659574,6790.0
+Roddy Speechley,Canada,Drinking Coco,6776,312,1,21.71794871794872,6776.0
+Brien Boise,USA,99% Dark & Pure,6769,353,1,19.175637393767705,6769.0
+Gunar Cockshoot,UK,Manuka Honey Choco,6762,46,1,147.0,6762.0
+Madelene Upcott,Australia,Orange Choco,6713,398,1,16.866834170854272,6713.0
+Barr Faughny,New Zealand,Eclairs,6713,31,1,216.5483870967742,6713.0
+Kaine Padly,Australia,70% Dark Bites,6706,223,1,30.071748878923767,6706.0
+Andria Kimpton,Australia,Peanut Butter Cubes,6678,148,1,45.12162162162162,6678.0
+Karlen McCaffrey,Australia,50% Dark Bites,6678,708,1,9.432203389830509,6678.0
+Beverie Moffet,New Zealand,Organic Choco Syrup,6678,226,1,29.548672566371682,6678.0
+Jehu Rudeforth,USA,Smooth Sliky Salty,6657,154,1,43.22727272727273,6657.0
+Oby Sorrel,Canada,50% Dark Bites,6615,137,1,48.284671532846716,6615.0
+Marney O'Breen,Canada,Peanut Butter Cubes,6594,91,1,72.46153846153847,6594.0
+Gigi Bohling,Canada,White Choc,6587,4,1,1646.75,6587.0
+Barr Faughny,India,Caramel Stuffed Bars,6566,99,1,66.32323232323232,6566.0
+Jehu Rudeforth,USA,White Choc,6559,119,1,55.11764705882353,6559.0
+Andria Kimpton,New Zealand,Almond Choco,6559,158,1,41.5126582278481,6559.0
+Van Tuxwell,UK,Raspberry Choco,6538,79,1,82.75949367088607,6538.0
+Dennison Crosswaite,USA,Raspberry Choco,6524,257,1,25.3852140077821,6524.0
+Gigi Bohling,Australia,Raspberry Choco,6524,303,1,21.53135313531353,6524.0
+Mallorie Waber,New Zealand,Orange Choco,6510,23,1,283.04347826086956,6510.0
+Gunar Cockshoot,India,Spicy Special Slims,6510,170,1,38.294117647058826,6510.0
+Jan Morforth,India,After Nines,6496,168,1,38.666666666666664,6496.0
+Marney O'Breen,India,Peanut Butter Cubes,6489,146,1,44.445205479452056,6489.0
+Beverie Moffet,UK,White Choc,6475,76,1,85.19736842105263,6475.0
+Barr Faughny,New Zealand,Raspberry Choco,6468,66,1,98.0,6468.0
+Oby Sorrel,UK,Milk Bars,6468,223,1,29.004484304932735,6468.0
+Kelci Walkden,USA,Drinking Coco,6454,160,1,40.3375,6454.0
+Barr Faughny,India,Baker's Choco Chips,6454,141,1,45.773049645390074,6454.0
+Dennison Crosswaite,New Zealand,Mint Chip Choco,6454,417,1,15.477218225419664,6454.0
+Husein Augar,India,70% Dark Bites,6454,157,1,41.10828025477707,6454.0
+Barr Faughny,New Zealand,Mint Chip Choco,6440,145,1,44.41379310344828,6440.0
+Oby Sorrel,USA,Almond Choco,6440,141,1,45.673758865248224,6440.0
+Husein Augar,New Zealand,After Nines,6433,7,1,919.0,6433.0
+Van Tuxwell,India,Almond Choco,6426,390,1,16.476923076923075,6426.0
+Wilone O'Kielt,New Zealand,Fruit & Nut Bars,6426,98,1,65.57142857142857,6426.0
+Mallorie Waber,UK,Mint Chip Choco,6384,2,1,3192.0,6384.0
+Camilla Castle,Australia,Raspberry Choco,6342,178,1,35.62921348314607,6342.0
+Van Tuxwell,Canada,Peanut Butter Cubes,6342,282,1,22.48936170212766,6342.0
+Karlen McCaffrey,Canada,Spicy Special Slims,6328,47,1,134.63829787234042,6328.0
+Mallorie Waber,USA,Eclairs,6328,51,1,124.07843137254902,6328.0
+Brien Boise,India,Raspberry Choco,6328,164,1,38.58536585365854,6328.0
+Madelene Upcott,Australia,Raspberry Choco,6321,88,1,71.82954545454545,6321.0
+Andria Kimpton,India,Spicy Special Slims,6307,142,1,44.41549295774648,6307.0
+Van Tuxwell,USA,Fruit & Nut Bars,6279,235,1,26.719148936170214,6279.0
+Kaine Padly,UK,Peanut Butter Cubes,6272,86,1,72.93023255813954,6272.0
+Barr Faughny,Canada,Drinking Coco,6237,247,1,25.251012145748987,6237.0
+Roddy Speechley,Canada,Eclairs,6237,88,1,70.875,6237.0
+Oby Sorrel,UK,70% Dark Bites,6223,181,1,34.38121546961326,6223.0
+Brien Boise,Australia,Spicy Special Slims,6223,256,1,24.30859375,6223.0
+Dennison Crosswaite,UK,Eclairs,6188,270,1,22.918518518518518,6188.0
+Kelci Walkden,USA,50% Dark Bites,6188,223,1,27.748878923766817,6188.0
+Oby Sorrel,India,Organic Choco Syrup,6181,56,1,110.375,6181.0
+Van Tuxwell,India,Spicy Special Slims,6167,4,1,1541.75,6167.0
+Beverie Moffet,Canada,85% Dark Bars,6139,45,1,136.42222222222222,6139.0
+Oby Sorrel,Canada,Eclairs,6111,591,1,10.34010152284264,6111.0
+Karlen McCaffrey,India,Almond Choco,6090,149,1,40.87248322147651,6090.0
+Karlen McCaffrey,New Zealand,85% Dark Bars,6069,55,1,110.34545454545454,6069.0
+Marney O'Breen,USA,Raspberry Choco,6069,151,1,40.19205298013245,6069.0
+Kaine Padly,Canada,Almond Choco,6055,73,1,82.94520547945206,6055.0
+Beverie Moffet,India,Drinking Coco,6055,46,1,131.6304347826087,6055.0
+Dotty Strutley,Australia,White Choc,6055,93,1,65.10752688172043,6055.0
+Camilla Castle,Australia,70% Dark Bites,6048,477,1,12.679245283018869,6048.0
+Oby Sorrel,Australia,Almond Choco,6034,223,1,27.05829596412556,6034.0
+Brien Boise,USA,Orange Choco,6020,147,1,40.95238095238095,6020.0
+Gunar Cockshoot,Australia,Fruit & Nut Bars,6013,21,1,286.3333333333333,6013.0
+Brien Boise,New Zealand,Baker's Choco Chips,5978,24,1,249.08333333333334,5978.0
+Brien Boise,India,Smooth Sliky Salty,5964,26,1,229.3846153846154,5964.0
+Van Tuxwell,Australia,Caramel Stuffed Bars,5936,59,1,100.61016949152543,5936.0
+Kelci Walkden,UK,Smooth Sliky Salty,5929,175,1,33.88,5929.0
+Camilla Castle,USA,50% Dark Bites,5908,301,1,19.627906976744185,5908.0
+Jan Morforth,Canada,70% Dark Bites,5894,305,1,19.324590163934428,5894.0
+Roddy Speechley,Canada,White Choc,5887,268,1,21.96641791044776,5887.0
+Roddy Speechley,Canada,Choco Coated Almonds,5873,249,1,23.586345381526105,5873.0
+Dennison Crosswaite,Australia,70% Dark Bites,5859,108,1,54.25,5859.0
+Curtice Advani,Canada,Choco Coated Almonds,5859,7,1,837.0,5859.0
+Gunar Cockshoot,USA,Fruit & Nut Bars,5852,93,1,62.924731182795696,5852.0
+Dotty Strutley,New Zealand,Raspberry Choco,5845,91,1,64.23076923076923,5845.0
+Kaine Padly,Canada,After Nines,5845,172,1,33.98255813953488,5845.0
+Marney O'Breen,Australia,Baker's Choco Chips,5810,101,1,57.524752475247524,5810.0
+Van Tuxwell,UK,Drinking Coco,5803,136,1,42.669117647058826,5803.0
+Curtice Advani,Australia,Eclairs,5796,55,1,105.38181818181818,5796.0
+Gigi Bohling,Canada,Fruit & Nut Bars,5782,103,1,56.13592233009709,5782.0
+Gigi Bohling,UK,Drinking Coco,5782,42,1,137.66666666666666,5782.0
+Dennison Crosswaite,Australia,Organic Choco Syrup,5775,41,1,140.85365853658536,5775.0
+Gunar Cockshoot,UK,Choco Coated Almonds,5775,135,1,42.77777777777778,5775.0
+Dotty Strutley,UK,Caramel Stuffed Bars,5768,235,1,24.54468085106383,5768.0
+Gigi Bohling,Australia,Smooth Sliky Salty,5768,119,1,48.470588235294116,5768.0
+Brien Boise,UK,Drinking Coco,5754,133,1,43.26315789473684,5754.0
+Brien Boise,India,After Nines,5747,45,1,127.71111111111111,5747.0
+Dennison Crosswaite,Australia,Raspberry Choco,5740,31,1,185.16129032258064,5740.0
+Dotty Strutley,New Zealand,Choco Coated Almonds,5733,348,1,16.474137931034484,5733.0
+Van Tuxwell,India,Choco Coated Almonds,5733,114,1,50.28947368421053,5733.0
+Ches Bonnell,New Zealand,After Nines,5705,350,1,16.3,5705.0
+Brien Boise,Canada,Smooth Sliky Salty,5691,495,1,11.496969696969696,5691.0
+Oby Sorrel,USA,Spicy Special Slims,5691,417,1,13.647482014388489,5691.0
+Jehu Rudeforth,Australia,Peanut Butter Cubes,5691,38,1,149.76315789473685,5691.0
+Roddy Speechley,UK,Peanut Butter Cubes,5691,171,1,33.280701754385966,5691.0
+Kaine Padly,Canada,Organic Choco Syrup,5684,81,1,70.17283950617283,5684.0
+Madelene Upcott,New Zealand,Fruit & Nut Bars,5677,21,1,270.3333333333333,5677.0
+Gigi Bohling,New Zealand,50% Dark Bites,5670,64,1,88.59375,5670.0
+Oby Sorrel,India,Eclairs,5663,322,1,17.58695652173913,5663.0
+Ches Bonnell,UK,Smooth Sliky Salty,5663,110,1,51.481818181818184,5663.0
+Gigi Bohling,UK,Almond Choco,5642,9,1,626.8888888888889,5642.0
+Madelene Upcott,USA,Baker's Choco Chips,5621,140,1,40.15,5621.0
+Kaine Padly,India,Spicy Special Slims,5614,137,1,40.97810218978102,5614.0
+Gigi Bohling,New Zealand,After Nines,5600,181,1,30.939226519337016,5600.0
+Kaine Padly,USA,Caramel Stuffed Bars,5593,122,1,45.84426229508197,5593.0
+Madelene Upcott,Australia,Fruit & Nut Bars,5579,92,1,60.641304347826086,5579.0
+Jehu Rudeforth,UK,70% Dark Bites,5565,258,1,21.569767441860463,5565.0
+Barr Faughny,New Zealand,Almond Choco,5558,127,1,43.76377952755905,5558.0
+Gigi Bohling,Australia,White Choc,5523,87,1,63.48275862068966,5523.0
+Brien Boise,New Zealand,White Choc,5509,321,1,17.161993769470406,5509.0
+Roddy Speechley,USA,Fruit & Nut Bars,5509,24,1,229.54166666666666,5509.0
+Jehu Rudeforth,UK,85% Dark Bars,5502,64,1,85.96875,5502.0
+Mallorie Waber,UK,50% Dark Bites,5502,99,1,55.57575757575758,5502.0
+Barr Faughny,UK,Raspberry Choco,5481,69,1,79.43478260869566,5481.0
+Barr Faughny,New Zealand,Manuka Honey Choco,5474,239,1,22.90376569037657,5474.0
+Van Tuxwell,UK,Eclairs,5474,109,1,50.22018348623853,5474.0
+Kaine Padly,Australia,Peanut Butter Cubes,5460,286,1,19.09090909090909,5460.0
+Jehu Rudeforth,Canada,Smooth Sliky Salty,5460,138,1,39.56521739130435,5460.0
+Madelene Upcott,USA,Choco Coated Almonds,5446,132,1,41.25757575757576,5446.0
+Roddy Speechley,New Zealand,Milk Bars,5446,116,1,46.94827586206897,5446.0
+Mallorie Waber,Australia,Spicy Special Slims,5439,287,1,18.951219512195124,5439.0
+Mallorie Waber,USA,Manuka Honey Choco,5425,96,1,56.510416666666664,5425.0
+Curtice Advani,New Zealand,85% Dark Bars,5404,187,1,28.898395721925134,5404.0
+Madelene Upcott,UK,70% Dark Bites,5397,239,1,22.581589958158997,5397.0
+Van Tuxwell,India,Smooth Sliky Salty,5376,38,1,141.47368421052633,5376.0
+Karlen McCaffrey,New Zealand,Caramel Stuffed Bars,5334,227,1,23.497797356828194,5334.0
+Kelci Walkden,India,Eclairs,5334,80,1,66.675,5334.0
+Ches Bonnell,Canada,Spicy Special Slims,5327,183,1,29.10928961748634,5327.0
+Jehu Rudeforth,UK,Mint Chip Choco,5320,180,1,29.555555555555557,5320.0
+Roddy Speechley,New Zealand,Baker's Choco Chips,5313,215,1,24.711627906976744,5313.0
+Brien Boise,UK,White Choc,5299,167,1,31.730538922155688,5299.0
+Dotty Strutley,USA,Mint Chip Choco,5292,248,1,21.338709677419356,5292.0
+Beverie Moffet,USA,White Choc,5292,134,1,39.492537313432834,5292.0
+Ches Bonnell,USA,White Choc,5271,341,1,15.457478005865102,5271.0
+Jehu Rudeforth,Australia,After Nines,5250,47,1,111.70212765957447,5250.0
+Jan Morforth,UK,50% Dark Bites,5250,293,1,17.918088737201366,5250.0
+Curtice Advani,India,Fruit & Nut Bars,5243,176,1,29.789772727272727,5243.0
+Van Tuxwell,New Zealand,Eclairs,5229,182,1,28.73076923076923,5229.0
+Jan Morforth,Australia,70% Dark Bites,5222,384,1,13.598958333333334,5222.0
+Jehu Rudeforth,Australia,50% Dark Bites,5194,418,1,12.425837320574162,5194.0
+Curtice Advani,USA,Drinking Coco,5187,142,1,36.528169014084504,5187.0
+Kelci Walkden,USA,Almond Choco,5180,233,1,22.23175965665236,5180.0
+Gunar Cockshoot,New Zealand,Almond Choco,5173,129,1,40.10077519379845,5173.0
+Madelene Upcott,New Zealand,Peanut Butter Cubes,5152,333,1,15.471471471471471,5152.0
+Husein Augar,Canada,70% Dark Bites,5131,285,1,18.003508771929823,5131.0
+Brien Boise,Australia,Choco Coated Almonds,5124,62,1,82.64516129032258,5124.0
+Roddy Speechley,India,Smooth Sliky Salty,5103,140,1,36.45,5103.0
+Van Tuxwell,India,50% Dark Bites,5103,129,1,39.55813953488372,5103.0
+Rafaelita Blaksland,Canada,99% Dark & Pure,5096,142,1,35.88732394366197,5096.0
+Karlen McCaffrey,India,70% Dark Bites,5075,344,1,14.752906976744185,5075.0
+Mallorie Waber,New Zealand,Organic Choco Syrup,5075,256,1,19.82421875,5075.0
+Dennison Crosswaite,New Zealand,Manuka Honey Choco,5061,301,1,16.813953488372093,5061.0
+Brien Boise,Canada,Mint Chip Choco,5033,178,1,28.275280898876403,5033.0
+Karlen McCaffrey,New Zealand,Baker's Choco Chips,5012,189,1,26.51851851851852,5012.0
+Jehu Rudeforth,Australia,Spicy Special Slims,5012,384,1,13.052083333333334,5012.0
+Wilone O'Kielt,USA,Milk Bars,5012,93,1,53.89247311827957,5012.0
+Wilone O'Kielt,Canada,Smooth Sliky Salty,4991,166,1,30.066265060240966,4991.0
+Camilla Castle,UK,Mint Chip Choco,4977,317,1,15.700315457413248,4977.0
+Husein Augar,India,Eclairs,4956,58,1,85.44827586206897,4956.0
+Curtice Advani,Canada,Peanut Butter Cubes,4935,63,1,78.33333333333333,4935.0
+Gigi Bohling,India,Manuka Honey Choco,4935,73,1,67.6027397260274,4935.0
+Andria Kimpton,New Zealand,Organic Choco Syrup,4935,39,1,126.53846153846153,4935.0
+Marney O'Breen,New Zealand,Eclairs,4914,31,1,158.51612903225808,4914.0
+Van Tuxwell,Canada,Drinking Coco,4900,709,1,6.91114245416079,4900.0
+Brien Boise,Australia,White Choc,4879,22,1,221.77272727272728,4879.0
+Kelci Walkden,Australia,Almond Choco,4879,350,1,13.94,4879.0
+Camilla Castle,UK,Peanut Butter Cubes,4872,126,1,38.666666666666664,4872.0
+Curtice Advani,Canada,Almond Choco,4865,70,1,69.5,4865.0
+Wilone O'Kielt,UK,Organic Choco Syrup,4858,52,1,93.42307692307692,4858.0
+Andria Kimpton,Canada,Manuka Honey Choco,4858,488,1,9.954918032786885,4858.0
+Roddy Speechley,New Zealand,85% Dark Bars,4844,275,1,17.614545454545453,4844.0
+Mallorie Waber,Canada,Caramel Stuffed Bars,4844,539,1,8.987012987012987,4844.0
+Kelci Walkden,Canada,99% Dark & Pure,4830,50,1,96.6,4830.0
+Kelci Walkden,USA,Fruit & Nut Bars,4816,145,1,33.213793103448275,4816.0
+Curtice Advani,USA,Mint Chip Choco,4802,296,1,16.222972972972972,4802.0
+Karlen McCaffrey,India,Drinking Coco,4795,233,1,20.5793991416309,4795.0
+Mallorie Waber,Canada,Choco Coated Almonds,4781,241,1,19.83817427385892,4781.0
+Madelene Upcott,India,Organic Choco Syrup,4781,38,1,125.8157894736842,4781.0
+Brien Boise,Canada,Almond Choco,4781,125,1,38.248,4781.0
+Jan Morforth,India,85% Dark Bars,4760,418,1,11.38755980861244,4760.0
+Marney O'Breen,USA,After Nines,4753,163,1,29.15950920245399,4753.0
+Marney O'Breen,India,Fruit & Nut Bars,4753,151,1,31.47682119205298,4753.0
+Karlen McCaffrey,UK,Baker's Choco Chips,4753,389,1,12.218508997429305,4753.0
+Camilla Castle,New Zealand,Raspberry Choco,4746,137,1,34.64233576642336,4746.0
+Rafaelita Blaksland,India,After Nines,4739,204,1,23.230392156862745,4739.0
+Van Tuxwell,UK,99% Dark & Pure,4725,137,1,34.48905109489051,4725.0
+Rafaelita Blaksland,USA,White Choc,4704,126,1,37.333333333333336,4704.0
+Rafaelita Blaksland,UK,Smooth Sliky Salty,4704,62,1,75.87096774193549,4704.0
+Husein Augar,UK,Spicy Special Slims,4697,42,1,111.83333333333333,4697.0
+Brien Boise,New Zealand,Eclairs,4690,299,1,15.68561872909699,4690.0
+Curtice Advani,Australia,99% Dark & Pure,4676,84,1,55.666666666666664,4676.0
+Camilla Castle,Australia,99% Dark & Pure,4669,101,1,46.227722772277225,4669.0
+Brien Boise,India,70% Dark Bites,4641,413,1,11.23728813559322,4641.0
+Jehu Rudeforth,Canada,White Choc,4627,136,1,34.02205882352941,4627.0
+Kelci Walkden,UK,Eclairs,4606,57,1,80.80701754385964,4606.0
+Oby Sorrel,UK,Raspberry Choco,4599,323,1,14.238390092879257,4599.0
+Karlen McCaffrey,USA,White Choc,4592,2,1,2296.0,4592.0
+Dennison Crosswaite,New Zealand,Orange Choco,4571,140,1,32.65,4571.0
+Madelene Upcott,USA,After Nines,4571,430,1,10.630232558139534,4571.0
+Ches Bonnell,USA,70% Dark Bites,4571,122,1,37.467213114754095,4571.0
+Barr Faughny,New Zealand,50% Dark Bites,4557,308,1,14.795454545454545,4557.0
+Oby Sorrel,New Zealand,Raspberry Choco,4550,281,1,16.19217081850534,4550.0
+Husein Augar,India,Peanut Butter Cubes,4522,5,1,904.4,4522.0
+Dennison Crosswaite,India,85% Dark Bars,4515,22,1,205.22727272727272,4515.0
+Camilla Castle,USA,Eclairs,4515,392,1,11.517857142857142,4515.0
+Jan Morforth,Canada,After Nines,4515,172,1,26.25,4515.0
+Wilone O'Kielt,USA,50% Dark Bites,4501,131,1,34.3587786259542,4501.0
+Gigi Bohling,India,Peanut Butter Cubes,4501,91,1,49.46153846153846,4501.0
+Oby Sorrel,New Zealand,Milk Bars,4494,187,1,24.032085561497325,4494.0
+Roddy Speechley,India,Drinking Coco,4494,11,1,408.54545454545456,4494.0
+Roddy Speechley,Australia,Almond Choco,4466,74,1,60.351351351351354,4466.0
+Jan Morforth,India,Almond Choco,4466,22,1,203.0,4466.0
+Andria Kimpton,Australia,50% Dark Bites,4438,227,1,19.550660792951543,4438.0
+Karlen McCaffrey,Australia,Spicy Special Slims,4410,323,1,13.653250773993808,4410.0
+Kaine Padly,Australia,Mint Chip Choco,4403,159,1,27.69182389937107,4403.0
+Beverie Moffet,UK,Smooth Sliky Salty,4403,76,1,57.93421052631579,4403.0
+Rafaelita Blaksland,Australia,Manuka Honey Choco,4396,131,1,33.55725190839695,4396.0
+Ches Bonnell,New Zealand,Milk Bars,4389,126,1,34.833333333333336,4389.0
+Karlen McCaffrey,USA,Milk Bars,4389,7,1,627.0,4389.0
+Jan Morforth,USA,Fruit & Nut Bars,4382,361,1,12.138504155124654,4382.0
+Roddy Speechley,India,Eclairs,4382,303,1,14.462046204620462,4382.0
+Husein Augar,India,Orange Choco,4361,40,1,109.025,4361.0
+Marney O'Breen,India,Caramel Stuffed Bars,4361,81,1,53.839506172839506,4361.0
+Beverie Moffet,New Zealand,Mint Chip Choco,4361,97,1,44.95876288659794,4361.0
+Oby Sorrel,New Zealand,White Choc,4361,40,1,109.025,4361.0
+Dotty Strutley,Canada,Raspberry Choco,4347,238,1,18.264705882352942,4347.0
+Oby Sorrel,USA,Manuka Honey Choco,4340,86,1,50.46511627906977,4340.0
+Husein Augar,India,Fruit & Nut Bars,4340,226,1,19.20353982300885,4340.0
+Husein Augar,UK,Choco Coated Almonds,4333,43,1,100.76744186046511,4333.0
+Madelene Upcott,Australia,99% Dark & Pure,4326,154,1,28.09090909090909,4326.0
+Karlen McCaffrey,New Zealand,Mint Chip Choco,4326,61,1,70.91803278688525,4326.0
+Roddy Speechley,New Zealand,50% Dark Bites,4312,211,1,20.436018957345972,4312.0
+Barr Faughny,Canada,White Choc,4291,1,1,4291.0,4291.0
+Wilone O'Kielt,Australia,Manuka Honey Choco,4284,94,1,45.57446808510638,4284.0
+Jehu Rudeforth,UK,Choco Coated Almonds,4270,185,1,23.08108108108108,4270.0
+Van Tuxwell,UK,Milk Bars,4263,90,1,47.36666666666667,4263.0
+Brien Boise,Australia,Organic Choco Syrup,4263,264,1,16.147727272727273,4263.0
+Gunar Cockshoot,India,Mint Chip Choco,4256,67,1,63.52238805970149,4256.0
+Madelene Upcott,India,Raspberry Choco,4221,9,1,469.0,4221.0
+Ches Bonnell,UK,Manuka Honey Choco,4221,395,1,10.686075949367089,4221.0
+Mallorie Waber,Canada,Almond Choco,4214,35,1,120.4,4214.0
+Roddy Speechley,Australia,85% Dark Bars,4200,80,1,52.5,4200.0
+Curtice Advani,Canada,Fruit & Nut Bars,4193,195,1,21.502564102564104,4193.0
+Andria Kimpton,Australia,85% Dark Bars,4186,233,1,17.965665236051503,4186.0
+Wilone O'Kielt,India,Caramel Stuffed Bars,4179,276,1,15.141304347826088,4179.0
+Mallorie Waber,Australia,Smooth Sliky Salty,4158,109,1,38.14678899082569,4158.0
+Marney O'Breen,USA,99% Dark & Pure,4151,296,1,14.02364864864865,4151.0
+Camilla Castle,New Zealand,Caramel Stuffed Bars,4137,347,1,11.922190201729107,4137.0
+Ches Bonnell,Australia,Eclairs,4116,128,1,32.15625,4116.0
+Dennison Crosswaite,New Zealand,Drinking Coco,4109,197,1,20.85786802030457,4109.0
+Kaine Padly,Australia,Almond Choco,4102,392,1,10.464285714285714,4102.0
+Curtice Advani,New Zealand,Spicy Special Slims,4074,469,1,8.686567164179104,4074.0
+Van Tuxwell,Canada,Organic Choco Syrup,4067,42,1,96.83333333333333,4067.0
+Andria Kimpton,Canada,White Choc,4067,29,1,140.24137931034483,4067.0
+Roddy Speechley,India,Orange Choco,4053,19,1,213.31578947368422,4053.0
+Kaine Padly,Australia,Milk Bars,4046,89,1,45.46067415730337,4046.0
+Van Tuxwell,New Zealand,Mint Chip Choco,4046,103,1,39.28155339805825,4046.0
+Roddy Speechley,Canada,Organic Choco Syrup,4032,82,1,49.170731707317074,4032.0
+Husein Augar,USA,Eclairs,4025,112,1,35.9375,4025.0
+Kaine Padly,USA,70% Dark Bites,4018,100,1,40.18,4018.0
+Kelci Walkden,UK,85% Dark Bars,3997,228,1,17.530701754385966,3997.0
+Jehu Rudeforth,New Zealand,50% Dark Bites,3990,59,1,67.62711864406779,3990.0
+Roddy Speechley,USA,Eclairs,3990,155,1,25.741935483870968,3990.0
+Barr Faughny,New Zealand,Smooth Sliky Salty,3990,169,1,23.609467455621303,3990.0
+Rafaelita Blaksland,Australia,Smooth Sliky Salty,3969,243,1,16.333333333333332,3969.0
+Andria Kimpton,India,Organic Choco Syrup,3955,134,1,29.51492537313433,3955.0
+Mallorie Waber,India,Drinking Coco,3948,142,1,27.802816901408452,3948.0
+Oby Sorrel,Australia,Manuka Honey Choco,3906,76,1,51.39473684210526,3906.0
+Barr Faughny,UK,Milk Bars,3864,430,1,8.986046511627906,3864.0
+Jehu Rudeforth,Canada,Orange Choco,3857,512,1,7.533203125,3857.0
+Gunar Cockshoot,USA,Drinking Coco,3843,5,1,768.6,3843.0
+Wilone O'Kielt,New Zealand,Baker's Choco Chips,3836,59,1,65.01694915254237,3836.0
+Madelene Upcott,India,Mint Chip Choco,3836,71,1,54.028169014084504,3836.0
+Dotty Strutley,USA,99% Dark & Pure,3822,320,1,11.94375,3822.0
+Jan Morforth,UK,Orange Choco,3780,201,1,18.80597014925373,3780.0
+Gunar Cockshoot,India,Smooth Sliky Salty,3752,70,1,53.6,3752.0
+Gunar Cockshoot,Australia,Almond Choco,3752,424,1,8.849056603773585,3752.0
+Marney O'Breen,Australia,Smooth Sliky Salty,3745,170,1,22.029411764705884,3745.0
+Gunar Cockshoot,USA,After Nines,3738,261,1,14.32183908045977,3738.0
+Barr Faughny,UK,Mint Chip Choco,3724,316,1,11.784810126582279,3724.0
+Wilone O'Kielt,New Zealand,Manuka Honey Choco,3724,234,1,15.914529914529915,3724.0
+Madelene Upcott,Australia,70% Dark Bites,3710,260,1,14.26923076923077,3710.0
+Barr Faughny,USA,Orange Choco,3703,11,1,336.6363636363636,3703.0
+Husein Augar,Canada,Eclairs,3696,233,1,15.86266094420601,3696.0
+Camilla Castle,Australia,85% Dark Bars,3654,14,1,261.0,3654.0
+Karlen McCaffrey,UK,50% Dark Bites,3647,310,1,11.764516129032257,3647.0
+Roddy Speechley,Australia,Organic Choco Syrup,3647,76,1,47.98684210526316,3647.0
+Kelci Walkden,UK,Orange Choco,3640,3,1,1213.3333333333333,3640.0
+Kelci Walkden,India,70% Dark Bites,3640,106,1,34.339622641509436,3640.0
+Van Tuxwell,New Zealand,50% Dark Bites,3626,10,1,362.6,3626.0
+Gunar Cockshoot,UK,Eclairs,3619,164,1,22.067073170731707,3619.0
+Madelene Upcott,Canada,Milk Bars,3612,82,1,44.048780487804876,3612.0
+Oby Sorrel,Canada,99% Dark & Pure,3605,403,1,8.945409429280398,3605.0
+Dotty Strutley,Australia,Baker's Choco Chips,3605,68,1,53.01470588235294,3605.0
+Jehu Rudeforth,Canada,Manuka Honey Choco,3584,200,1,17.92,3584.0
+Mallorie Waber,Canada,Orange Choco,3577,178,1,20.09550561797753,3577.0
+Oby Sorrel,USA,Smooth Sliky Salty,3577,158,1,22.639240506329113,3577.0
+Beverie Moffet,India,Choco Coated Almonds,3577,261,1,13.704980842911878,3577.0
+Van Tuxwell,UK,85% Dark Bars,3577,134,1,26.69402985074627,3577.0
+Mallorie Waber,UK,Milk Bars,3563,284,1,12.545774647887324,3563.0
+Ches Bonnell,New Zealand,Spicy Special Slims,3556,18,1,197.55555555555554,3556.0
+Marney O'Breen,UK,Caramel Stuffed Bars,3549,112,1,31.6875,3549.0
+Wilone O'Kielt,India,Eclairs,3549,76,1,46.69736842105263,3549.0
+Gigi Bohling,Canada,Drinking Coco,3549,82,1,43.28048780487805,3549.0
+Marney O'Breen,Canada,Spicy Special Slims,3528,336,1,10.5,3528.0
+Kelci Walkden,UK,99% Dark & Pure,3507,114,1,30.763157894736842,3507.0
+Husein Augar,UK,After Nines,3507,380,1,9.228947368421053,3507.0
+Madelene Upcott,India,Choco Coated Almonds,3500,145,1,24.137931034482758,3500.0
+Gigi Bohling,India,Eclairs,3493,68,1,51.36764705882353,3493.0
+Beverie Moffet,UK,99% Dark & Pure,3486,121,1,28.8099173553719,3486.0
+Karlen McCaffrey,Canada,Eclairs,3479,358,1,9.717877094972067,3479.0
+Marney O'Breen,India,Eclairs,3472,96,1,36.166666666666664,3472.0
+Curtice Advani,Australia,Organic Choco Syrup,3472,311,1,11.163987138263666,3472.0
+Jehu Rudeforth,India,50% Dark Bites,3472,135,1,25.71851851851852,3472.0
+Jan Morforth,Australia,White Choc,3472,32,1,108.5,3472.0
+Madelene Upcott,Canada,Choco Coated Almonds,3458,294,1,11.761904761904763,3458.0
+Dotty Strutley,USA,Raspberry Choco,3437,46,1,74.71739130434783,3437.0
+Wilone O'Kielt,Canada,Fruit & Nut Bars,3437,181,1,18.988950276243095,3437.0
+Curtice Advani,India,Milk Bars,3437,201,1,17.09950248756219,3437.0
+Mallorie Waber,UK,Drinking Coco,3423,100,1,34.23,3423.0
+Barr Faughny,Canada,Manuka Honey Choco,3402,249,1,13.662650602409638,3402.0
+Jan Morforth,Australia,50% Dark Bites,3402,182,1,18.692307692307693,3402.0
+Rafaelita Blaksland,India,Almond Choco,3395,99,1,34.292929292929294,3395.0
+Wilone O'Kielt,UK,Drinking Coco,3388,55,1,61.6,3388.0
+Jan Morforth,UK,Manuka Honey Choco,3388,212,1,15.981132075471699,3388.0
+Mallorie Waber,Canada,White Choc,3381,72,1,46.958333333333336,3381.0
+Husein Augar,Canada,Choco Coated Almonds,3381,408,1,8.286764705882353,3381.0
+Oby Sorrel,New Zealand,85% Dark Bars,3381,417,1,8.107913669064748,3381.0
+Madelene Upcott,New Zealand,Caramel Stuffed Bars,3374,151,1,22.344370860927153,3374.0
+Andria Kimpton,New Zealand,50% Dark Bites,3374,202,1,16.702970297029704,3374.0
+Curtice Advani,UK,50% Dark Bites,3374,142,1,23.760563380281692,3374.0
+Karlen McCaffrey,Canada,Caramel Stuffed Bars,3346,304,1,11.006578947368421,3346.0
+Camilla Castle,USA,Raspberry Choco,3339,18,1,185.5,3339.0
+Beverie Moffet,India,Spicy Special Slims,3339,171,1,19.526315789473685,3339.0
+Wilone O'Kielt,Australia,After Nines,3325,26,1,127.88461538461539,3325.0
+Barr Faughny,USA,Caramel Stuffed Bars,3318,299,1,11.096989966555183,3318.0
+Wilone O'Kielt,New Zealand,Eclairs,3311,22,1,150.5,3311.0
+Kelci Walkden,India,Almond Choco,3297,149,1,22.12751677852349,3297.0
+Ches Bonnell,UK,White Choc,3269,226,1,14.464601769911505,3269.0
+Kaine Padly,Canada,Peanut Butter Cubes,3269,176,1,18.573863636363637,3269.0
+Curtice Advani,New Zealand,Mint Chip Choco,3220,265,1,12.150943396226415,3220.0
+Van Tuxwell,Canada,Almond Choco,3213,72,1,44.625,3213.0
+Jan Morforth,Australia,Orange Choco,3199,122,1,26.221311475409838,3199.0
+Beverie Moffet,Australia,Baker's Choco Chips,3192,109,1,29.28440366972477,3192.0
+Andria Kimpton,Australia,Almond Choco,3192,175,1,18.24,3192.0
+Kelci Walkden,Australia,99% Dark & Pure,3185,34,1,93.67647058823529,3185.0
+Camilla Castle,Australia,Caramel Stuffed Bars,3178,16,1,198.625,3178.0
+Husein Augar,Australia,White Choc,3171,220,1,14.413636363636364,3171.0
+Mallorie Waber,New Zealand,White Choc,3171,246,1,12.890243902439025,3171.0
+Kaine Padly,Canada,Choco Coated Almonds,3164,164,1,19.29268292682927,3164.0
+Rafaelita Blaksland,New Zealand,99% Dark & Pure,3164,84,1,37.666666666666664,3164.0
+Kaine Padly,UK,50% Dark Bites,3143,67,1,46.91044776119403,3143.0
+Ches Bonnell,Australia,70% Dark Bites,3136,125,1,25.088,3136.0
+Karlen McCaffrey,India,Orange Choco,3122,149,1,20.953020134228186,3122.0
+Van Tuxwell,New Zealand,Smooth Sliky Salty,3115,42,1,74.16666666666667,3115.0
+Dotty Strutley,Australia,50% Dark Bites,3108,252,1,12.333333333333334,3108.0
+Jan Morforth,UK,Caramel Stuffed Bars,3094,468,1,6.611111111111111,3094.0
+Karlen McCaffrey,Canada,Peanut Butter Cubes,3094,159,1,19.459119496855347,3094.0
+Husein Augar,Australia,99% Dark & Pure,3087,128,1,24.1171875,3087.0
+Gunar Cockshoot,Australia,After Nines,3080,73,1,42.19178082191781,3080.0
+Kelci Walkden,Canada,Baker's Choco Chips,3073,302,1,10.175496688741722,3073.0
+Beverie Moffet,India,Almond Choco,3066,96,1,31.9375,3066.0
+Gigi Bohling,Canada,Milk Bars,3052,116,1,26.310344827586206,3052.0
+Van Tuxwell,India,Baker's Choco Chips,3052,447,1,6.827740492170022,3052.0
+Husein Augar,UK,Baker's Choco Chips,3038,135,1,22.503703703703703,3038.0
+Gunar Cockshoot,Canada,50% Dark Bites,3024,23,1,131.47826086956522,3024.0
+Roddy Speechley,USA,Smooth Sliky Salty,3017,140,1,21.55,3017.0
+Karlen McCaffrey,Canada,Smooth Sliky Salty,3017,184,1,16.39673913043478,3017.0
+Beverie Moffet,UK,Choco Coated Almonds,3010,69,1,43.6231884057971,3010.0
+Rafaelita Blaksland,Australia,50% Dark Bites,3010,40,1,75.25,3010.0
+Husein Augar,UK,Drinking Coco,3003,113,1,26.575221238938052,3003.0
+Roddy Speechley,USA,Drinking Coco,3003,155,1,19.374193548387098,3003.0
+Curtice Advani,USA,Raspberry Choco,2996,139,1,21.553956834532375,2996.0
+Van Tuxwell,New Zealand,Fruit & Nut Bars,2996,88,1,34.04545454545455,2996.0
+Marney O'Breen,UK,50% Dark Bites,2989,124,1,24.10483870967742,2989.0
+Dennison Crosswaite,India,Smooth Sliky Salty,2975,9,1,330.55555555555554,2975.0
+Wilone O'Kielt,Australia,Baker's Choco Chips,2961,154,1,19.227272727272727,2961.0
+Barr Faughny,Australia,Caramel Stuffed Bars,2933,55,1,53.32727272727273,2933.0
+Wilone O'Kielt,India,Choco Coated Almonds,2933,233,1,12.587982832618026,2933.0
+Ches Bonnell,UK,Caramel Stuffed Bars,2926,300,1,9.753333333333334,2926.0
+Karlen McCaffrey,Canada,50% Dark Bites,2919,65,1,44.90769230769231,2919.0
+Kelci Walkden,New Zealand,Baker's Choco Chips,2912,110,1,26.472727272727273,2912.0
+Jan Morforth,India,Fruit & Nut Bars,2912,55,1,52.945454545454545,2912.0
+Curtice Advani,Australia,Almond Choco,2912,75,1,38.82666666666667,2912.0
+Kaine Padly,India,Milk Bars,2905,91,1,31.923076923076923,2905.0
+Dotty Strutley,USA,Fruit & Nut Bars,2898,276,1,10.5,2898.0
+Kelci Walkden,India,Mint Chip Choco,2870,120,1,23.916666666666668,2870.0
+Rafaelita Blaksland,USA,Baker's Choco Chips,2863,58,1,49.36206896551724,2863.0
+Brien Boise,Australia,99% Dark & Pure,2835,102,1,27.794117647058822,2835.0
+Gigi Bohling,USA,Fruit & Nut Bars,2821,112,1,25.1875,2821.0
+Jan Morforth,Australia,Drinking Coco,2821,24,1,117.54166666666667,2821.0
+Gigi Bohling,Australia,Drinking Coco,2807,139,1,20.194244604316548,2807.0
+Roddy Speechley,USA,Milk Bars,2807,252,1,11.13888888888889,2807.0
+Brien Boise,Canada,Raspberry Choco,2800,45,1,62.22222222222222,2800.0
+Jehu Rudeforth,New Zealand,White Choc,2800,241,1,11.618257261410788,2800.0
+Rafaelita Blaksland,Australia,Baker's Choco Chips,2786,51,1,54.627450980392155,2786.0
+Mallorie Waber,Australia,Milk Bars,2779,104,1,26.721153846153847,2779.0
+Kaine Padly,Australia,Manuka Honey Choco,2765,264,1,10.473484848484848,2765.0
+Dennison Crosswaite,Australia,99% Dark & Pure,2758,18,1,153.22222222222223,2758.0
+Madelene Upcott,Australia,Mint Chip Choco,2751,153,1,17.980392156862745,2751.0
+Gunar Cockshoot,Canada,After Nines,2744,200,1,13.72,2744.0
+Marney O'Breen,Canada,Orange Choco,2723,425,1,6.407058823529412,2723.0
+Roddy Speechley,New Zealand,Almond Choco,2723,67,1,40.64179104477612,2723.0
+Dennison Crosswaite,Canada,Drinking Coco,2702,24,1,112.58333333333333,2702.0
+Ches Bonnell,UK,Mint Chip Choco,2688,209,1,12.861244019138756,2688.0
+Brien Boise,UK,Caramel Stuffed Bars,2681,149,1,17.993288590604028,2681.0
+Van Tuxwell,Australia,Mint Chip Choco,2674,295,1,9.064406779661017,2674.0
+Curtice Advani,Canada,Smooth Sliky Salty,2660,12,1,221.66666666666666,2660.0
+Andria Kimpton,UK,50% Dark Bites,2653,314,1,8.449044585987261,2653.0
+Marney O'Breen,Canada,Choco Coated Almonds,2639,406,1,6.5,2639.0
+Marney O'Breen,India,After Nines,2639,179,1,14.743016759776536,2639.0
+Mallorie Waber,USA,85% Dark Bars,2632,108,1,24.37037037037037,2632.0
+Jehu Rudeforth,Australia,Drinking Coco,2611,65,1,40.16923076923077,2611.0
+Rafaelita Blaksland,USA,Fruit & Nut Bars,2604,65,1,40.06153846153846,2604.0
+Karlen McCaffrey,New Zealand,Eclairs,2597,177,1,14.67231638418079,2597.0
+Gigi Bohling,USA,Smooth Sliky Salty,2583,126,1,20.5,2583.0
+Gigi Bohling,India,Raspberry Choco,2583,159,1,16.245283018867923,2583.0
+Roddy Speechley,India,After Nines,2576,112,1,23.0,2576.0
+Mallorie Waber,Australia,85% Dark Bars,2541,53,1,47.943396226415096,2541.0
+Jan Morforth,India,Choco Coated Almonds,2541,134,1,18.96268656716418,2541.0
+Jan Morforth,India,Eclairs,2541,27,1,94.11111111111111,2541.0
+Jehu Rudeforth,USA,99% Dark & Pure,2534,219,1,11.570776255707763,2534.0
+Dennison Crosswaite,Canada,Spicy Special Slims,2527,216,1,11.699074074074074,2527.0
+Rafaelita Blaksland,Canada,Spicy Special Slims,2520,156,1,16.153846153846153,2520.0
+Beverie Moffet,UK,Almond Choco,2506,100,1,25.06,2506.0
+Beverie Moffet,UK,50% Dark Bites,2499,271,1,9.22140221402214,2499.0
+Husein Augar,India,Spicy Special Slims,2492,33,1,75.51515151515152,2492.0
+Jehu Rudeforth,UK,Baker's Choco Chips,2485,97,1,25.61855670103093,2485.0
+Jehu Rudeforth,New Zealand,Milk Bars,2478,188,1,13.180851063829786,2478.0
+Gunar Cockshoot,India,Caramel Stuffed Bars,2471,202,1,12.232673267326733,2471.0
+Kelci Walkden,India,Smooth Sliky Salty,2464,8,1,308.0,2464.0
+Marney O'Breen,Australia,Milk Bars,2464,387,1,6.366925064599483,2464.0
+Beverie Moffet,USA,50% Dark Bites,2450,352,1,6.9602272727272725,2450.0
+Van Tuxwell,UK,Baker's Choco Chips,2443,20,1,122.15,2443.0
+Karlen McCaffrey,India,Manuka Honey Choco,2443,581,1,4.204819277108434,2443.0
+Dotty Strutley,UK,Mint Chip Choco,2443,216,1,11.310185185185185,2443.0
+Marney O'Breen,Canada,Milk Bars,2436,309,1,7.883495145631068,2436.0
+Karlen McCaffrey,Canada,Organic Choco Syrup,2415,312,1,7.740384615384615,2415.0
+Ches Bonnell,USA,Milk Bars,2408,157,1,15.337579617834395,2408.0
+Camilla Castle,USA,85% Dark Bars,2401,78,1,30.78205128205128,2401.0
+Beverie Moffet,New Zealand,Smooth Sliky Salty,2387,59,1,40.45762711864407,2387.0
+Kaine Padly,USA,Organic Choco Syrup,2380,22,1,108.18181818181819,2380.0
+Andria Kimpton,USA,Spicy Special Slims,2366,5,1,473.2,2366.0
+Brien Boise,UK,Spicy Special Slims,2352,58,1,40.55172413793103,2352.0
+Oby Sorrel,UK,After Nines,2345,104,1,22.548076923076923,2345.0
+Gunar Cockshoot,USA,Organic Choco Syrup,2331,321,1,7.261682242990654,2331.0
+Beverie Moffet,USA,Smooth Sliky Salty,2317,352,1,6.582386363636363,2317.0
+Dennison Crosswaite,USA,Caramel Stuffed Bars,2317,464,1,4.993534482758621,2317.0
+Kaine Padly,UK,Drinking Coco,2317,224,1,10.34375,2317.0
+Gunar Cockshoot,Australia,Drinking Coco,2317,195,1,11.882051282051282,2317.0
+Van Tuxwell,USA,Manuka Honey Choco,2317,102,1,22.715686274509803,2317.0
+Curtice Advani,Canada,70% Dark Bites,2303,7,1,329.0,2303.0
+Kelci Walkden,India,99% Dark & Pure,2303,244,1,9.438524590163935,2303.0
+Barr Faughny,Australia,Organic Choco Syrup,2303,33,1,69.78787878787878,2303.0
+Karlen McCaffrey,Australia,After Nines,2303,67,1,34.37313432835821,2303.0
+Gigi Bohling,USA,50% Dark Bites,2296,59,1,38.91525423728814,2296.0
+Van Tuxwell,Canada,Choco Coated Almonds,2282,296,1,7.70945945945946,2282.0
+Kaine Padly,UK,Organic Choco Syrup,2282,178,1,12.820224719101123,2282.0
+Curtice Advani,India,70% Dark Bites,2282,44,1,51.86363636363637,2282.0
+Beverie Moffet,USA,70% Dark Bites,2275,115,1,19.782608695652176,2275.0
+Dennison Crosswaite,UK,Baker's Choco Chips,2275,275,1,8.272727272727273,2275.0
+Camilla Castle,New Zealand,99% Dark & Pure,2268,42,1,54.0,2268.0
+Beverie Moffet,Australia,White Choc,2240,166,1,13.493975903614459,2240.0
+Wilone O'Kielt,Australia,Smooth Sliky Salty,2226,46,1,48.391304347826086,2226.0
+Barr Faughny,India,Drinking Coco,2219,142,1,15.626760563380282,2219.0
+Marney O'Breen,India,85% Dark Bars,2205,179,1,12.318435754189943,2205.0
+Dennison Crosswaite,USA,Drinking Coco,2191,138,1,15.876811594202898,2191.0
+Gunar Cockshoot,India,Baker's Choco Chips,2191,524,1,4.181297709923665,2191.0
+Brien Boise,India,Almond Choco,2170,218,1,9.954128440366972,2170.0
+Andria Kimpton,Canada,After Nines,2163,70,1,30.9,2163.0
+Ches Bonnell,UK,Peanut Butter Cubes,2156,260,1,8.292307692307693,2156.0
+Andria Kimpton,India,Eclairs,2149,84,1,25.583333333333332,2149.0
+Kaine Padly,USA,Spicy Special Slims,2107,175,1,12.04,2107.0
+Gunar Cockshoot,UK,50% Dark Bites,2107,121,1,17.41322314049587,2107.0
+Barr Faughny,New Zealand,85% Dark Bars,2100,157,1,13.375796178343949,2100.0
+Barr Faughny,Canada,Peanut Butter Cubes,2100,78,1,26.923076923076923,2100.0
+Rafaelita Blaksland,New Zealand,Choco Coated Almonds,2093,45,1,46.51111111111111,2093.0
+Dotty Strutley,India,Eclairs,2086,384,1,5.432291666666667,2086.0
+Jehu Rudeforth,India,Baker's Choco Chips,2086,74,1,28.18918918918919,2086.0
+Husein Augar,New Zealand,Peanut Butter Cubes,2058,236,1,8.720338983050848,2058.0
+Madelene Upcott,Australia,Choco Coated Almonds,2058,72,1,28.583333333333332,2058.0
+Gunar Cockshoot,Canada,Raspberry Choco,2058,126,1,16.333333333333332,2058.0
+Dennison Crosswaite,USA,Eclairs,2044,90,1,22.711111111111112,2044.0
+Dotty Strutley,New Zealand,Orange Choco,2030,146,1,13.904109589041095,2030.0
+Husein Augar,USA,White Choc,2030,60,1,33.833333333333336,2030.0
+Wilone O'Kielt,Australia,Caramel Stuffed Bars,2030,11,1,184.54545454545453,2030.0
+Wilone O'Kielt,New Zealand,Organic Choco Syrup,2016,277,1,7.277978339350181,2016.0
+Van Tuxwell,UK,Organic Choco Syrup,2002,214,1,9.355140186915888,2002.0
+Brien Boise,Australia,Milk Bars,1981,52,1,38.09615384615385,1981.0
+Kaine Padly,UK,Orange Choco,1960,191,1,10.261780104712042,1960.0
+Jehu Rudeforth,India,99% Dark & Pure,1953,242,1,8.070247933884298,1953.0
+Jehu Rudeforth,UK,After Nines,1946,164,1,11.865853658536585,1946.0
+Jan Morforth,India,Spicy Special Slims,1939,520,1,3.728846153846154,1939.0
+Mallorie Waber,Canada,Smooth Sliky Salty,1939,98,1,19.785714285714285,1939.0
+Brien Boise,USA,Manuka Honey Choco,1904,8,1,238.0,1904.0
+Van Tuxwell,India,White Choc,1897,44,1,43.11363636363637,1897.0
+Ches Bonnell,Canada,Eclairs,1876,172,1,10.906976744186046,1876.0
+Beverie Moffet,India,Milk Bars,1869,323,1,5.786377708978328,1869.0
+Oby Sorrel,Canada,Fruit & Nut Bars,1869,158,1,11.829113924050633,1869.0
+Jehu Rudeforth,UK,White Choc,1862,284,1,6.556338028169014,1862.0
+Gigi Bohling,USA,After Nines,1848,227,1,8.140969162995594,1848.0
+Jehu Rudeforth,Canada,Spicy Special Slims,1848,27,1,68.44444444444444,1848.0
+Wilone O'Kielt,New Zealand,85% Dark Bars,1827,117,1,15.615384615384615,1827.0
+Beverie Moffet,Australia,Eclairs,1827,6,1,304.5,1827.0
+Beverie Moffet,India,White Choc,1813,296,1,6.125,1813.0
+Jan Morforth,New Zealand,Organic Choco Syrup,1799,207,1,8.690821256038648,1799.0
+Kelci Walkden,UK,Drinking Coco,1792,23,1,77.91304347826087,1792.0
+Oby Sorrel,Canada,Raspberry Choco,1750,208,1,8.413461538461538,1750.0
+Dennison Crosswaite,Canada,Smooth Sliky Salty,1750,479,1,3.653444676409186,1750.0
+Husein Augar,UK,Eclairs,1750,252,1,6.944444444444445,1750.0
+Wilone O'Kielt,Australia,Organic Choco Syrup,1743,111,1,15.702702702702704,1743.0
+Ches Bonnell,USA,Orange Choco,1743,69,1,25.26086956521739,1743.0
+Oby Sorrel,USA,Milk Bars,1736,79,1,21.974683544303797,1736.0
+Roddy Speechley,USA,Peanut Butter Cubes,1736,137,1,12.671532846715328,1736.0
+Mallorie Waber,USA,50% Dark Bites,1736,13,1,133.53846153846155,1736.0
+Kaine Padly,Canada,85% Dark Bars,1729,31,1,55.774193548387096,1729.0
+Van Tuxwell,New Zealand,85% Dark Bars,1722,121,1,14.231404958677686,1722.0
+Oby Sorrel,UK,White Choc,1715,286,1,5.996503496503497,1715.0
+Brien Boise,USA,70% Dark Bites,1694,21,1,80.66666666666667,1694.0
+Dennison Crosswaite,Canada,Mint Chip Choco,1694,289,1,5.86159169550173,1694.0
+Kelci Walkden,India,After Nines,1687,520,1,3.2442307692307693,1687.0
+Ches Bonnell,UK,Choco Coated Almonds,1687,236,1,7.148305084745763,1687.0
+Barr Faughny,New Zealand,Fruit & Nut Bars,1687,147,1,11.476190476190476,1687.0
+Curtice Advani,UK,Manuka Honey Choco,1666,106,1,15.716981132075471,1666.0
+Roddy Speechley,Canada,Spicy Special Slims,1652,186,1,8.881720430107526,1652.0
+Barr Faughny,UK,White Choc,1652,72,1,22.944444444444443,1652.0
+Dotty Strutley,Australia,Choco Coated Almonds,1645,284,1,5.792253521126761,1645.0
+Rafaelita Blaksland,India,Smooth Sliky Salty,1638,81,1,20.22222222222222,1638.0
+Oby Sorrel,New Zealand,Spicy Special Slims,1617,13,1,124.38461538461539,1617.0
+Curtice Advani,USA,Spicy Special Slims,1603,264,1,6.071969696969697,1603.0
+Andria Kimpton,Australia,Drinking Coco,1603,48,1,33.395833333333336,1603.0
+Jan Morforth,New Zealand,Manuka Honey Choco,1589,271,1,5.863468634686347,1589.0
+Camilla Castle,New Zealand,Peanut Butter Cubes,1582,62,1,25.516129032258064,1582.0
+Brien Boise,New Zealand,Drinking Coco,1582,100,1,15.82,1582.0
+Madelene Upcott,Australia,85% Dark Bars,1575,329,1,4.787234042553192,1575.0
+Marney O'Breen,New Zealand,After Nines,1561,44,1,35.47727272727273,1561.0
+Andria Kimpton,UK,Drinking Coco,1554,65,1,23.907692307692308,1554.0
+Curtice Advani,India,Manuka Honey Choco,1547,170,1,9.1,1547.0
+Curtice Advani,UK,White Choc,1540,73,1,21.095890410958905,1540.0
+Brien Boise,India,Caramel Stuffed Bars,1540,100,1,15.4,1540.0
+Curtice Advani,New Zealand,Peanut Butter Cubes,1533,434,1,3.532258064516129,1533.0
+Dennison Crosswaite,India,Milk Bars,1526,96,1,15.895833333333334,1526.0
+Jehu Rudeforth,New Zealand,After Nines,1512,73,1,20.71232876712329,1512.0
+Gigi Bohling,Canada,Baker's Choco Chips,1505,47,1,32.02127659574468,1505.0
+Ches Bonnell,Australia,Choco Coated Almonds,1470,167,1,8.802395209580839,1470.0
+Jehu Rudeforth,UK,Smooth Sliky Salty,1463,113,1,12.946902654867257,1463.0
+Dotty Strutley,Australia,Almond Choco,1456,91,1,16.0,1456.0
+Andria Kimpton,USA,Fruit & Nut Bars,1456,359,1,4.055710306406685,1456.0
+Mallorie Waber,Canada,Eclairs,1442,286,1,5.041958041958042,1442.0
+Mallorie Waber,Canada,Manuka Honey Choco,1435,112,1,12.8125,1435.0
+Beverie Moffet,Australia,Fruit & Nut Bars,1435,258,1,5.562015503875969,1435.0
+Mallorie Waber,Canada,85% Dark Bars,1428,424,1,3.3679245283018866,1428.0
+Roddy Speechley,UK,70% Dark Bites,1421,284,1,5.003521126760563,1421.0
+Dennison Crosswaite,USA,Fruit & Nut Bars,1414,318,1,4.446540880503145,1414.0
+Mallorie Waber,India,Raspberry Choco,1400,2,1,700.0,1400.0
+Gigi Bohling,India,White Choc,1393,172,1,8.098837209302326,1393.0
+Kelci Walkden,USA,Orange Choco,1379,138,1,9.992753623188406,1379.0
+Dotty Strutley,USA,Orange Choco,1379,107,1,12.88785046728972,1379.0
+Rafaelita Blaksland,UK,Eclairs,1379,70,1,19.7,1379.0
+Gigi Bohling,Australia,70% Dark Bites,1372,105,1,13.066666666666666,1372.0
+Beverie Moffet,New Zealand,Baker's Choco Chips,1372,144,1,9.527777777777779,1372.0
+Marney O'Breen,Canada,Caramel Stuffed Bars,1372,614,1,2.234527687296417,1372.0
+Gigi Bohling,UK,Milk Bars,1365,232,1,5.883620689655173,1365.0
+Kelci Walkden,New Zealand,Manuka Honey Choco,1358,106,1,12.81132075471698,1358.0
+Brien Boise,India,Eclairs,1351,61,1,22.147540983606557,1351.0
+Mallorie Waber,New Zealand,Mint Chip Choco,1316,107,1,12.299065420560748,1316.0
+Wilone O'Kielt,India,Mint Chip Choco,1309,51,1,25.666666666666668,1309.0
+Gunar Cockshoot,Canada,Almond Choco,1309,30,1,43.63333333333333,1309.0
+Brien Boise,India,Spicy Special Slims,1302,33,1,39.45454545454545,1302.0
+Husein Augar,USA,Fruit & Nut Bars,1288,27,1,47.7037037037037,1288.0
+Kelci Walkden,Australia,Drinking Coco,1288,60,1,21.466666666666665,1288.0
+Kaine Padly,Canada,99% Dark & Pure,1288,409,1,3.1491442542787285,1288.0
+Camilla Castle,USA,Spicy Special Slims,1274,244,1,5.221311475409836,1274.0
+Van Tuxwell,Canada,Raspberry Choco,1267,130,1,9.746153846153845,1267.0
+Gunar Cockshoot,USA,Spicy Special Slims,1267,157,1,8.070063694267516,1267.0
+Dotty Strutley,UK,70% Dark Bites,1267,216,1,5.8657407407407405,1267.0
+Dotty Strutley,India,Mint Chip Choco,1260,239,1,5.2719665271966525,1260.0
+Gigi Bohling,UK,Fruit & Nut Bars,1232,86,1,14.325581395348838,1232.0
+Oby Sorrel,Canada,Organic Choco Syrup,1232,74,1,16.64864864864865,1232.0
+Jan Morforth,New Zealand,Orange Choco,1225,84,1,14.583333333333334,1225.0
+Karlen McCaffrey,New Zealand,Fruit & Nut Bars,1218,135,1,9.022222222222222,1218.0
+Marney O'Breen,New Zealand,85% Dark Bars,1218,149,1,8.174496644295303,1218.0
+Jan Morforth,UK,Organic Choco Syrup,1197,356,1,3.3623595505617976,1197.0
+Ches Bonnell,India,Orange Choco,1190,256,1,4.6484375,1190.0
+Mallorie Waber,USA,Peanut Butter Cubes,1162,18,1,64.55555555555556,1162.0
+Camilla Castle,New Zealand,Mint Chip Choco,1162,190,1,6.11578947368421,1162.0
+Andria Kimpton,UK,99% Dark & Pure,1155,66,1,17.5,1155.0
+Andria Kimpton,Canada,Smooth Sliky Salty,1155,79,1,14.620253164556962,1155.0
+Barr Faughny,Canada,Organic Choco Syrup,1141,205,1,5.565853658536585,1141.0
+Beverie Moffet,New Zealand,Drinking Coco,1141,518,1,2.2027027027027026,1141.0
+Gigi Bohling,New Zealand,Raspberry Choco,1127,176,1,6.403409090909091,1127.0
+Andria Kimpton,Canada,Peanut Butter Cubes,1127,319,1,3.5329153605015673,1127.0
+Rafaelita Blaksland,New Zealand,After Nines,1099,92,1,11.945652173913043,1099.0
+Curtice Advani,UK,85% Dark Bars,1085,172,1,6.308139534883721,1085.0
+Jan Morforth,Canada,Mint Chip Choco,1064,211,1,5.042654028436019,1064.0
+Marney O'Breen,USA,50% Dark Bites,1064,106,1,10.037735849056604,1064.0
+Oby Sorrel,Australia,Raspberry Choco,1043,120,1,8.691666666666666,1043.0
+Ches Bonnell,Australia,White Choc,1043,202,1,5.163366336633663,1043.0
+Beverie Moffet,India,Organic Choco Syrup,1036,20,1,51.8,1036.0
+Wilone O'Kielt,USA,Drinking Coco,1029,98,1,10.5,1029.0
+Brien Boise,New Zealand,Smooth Sliky Salty,1015,27,1,37.592592592592595,1015.0
+Karlen McCaffrey,Australia,Raspberry Choco,994,57,1,17.43859649122807,994.0
+Rafaelita Blaksland,Australia,Organic Choco Syrup,994,105,1,9.466666666666667,994.0
+Beverie Moffet,Canada,Drinking Coco,994,118,1,8.423728813559322,994.0
+Van Tuxwell,USA,Caramel Stuffed Bars,987,21,1,47.0,987.0
+Jan Morforth,USA,Orange Choco,980,146,1,6.712328767123288,980.0
+Marney O'Breen,UK,Drinking Coco,973,28,1,34.75,973.0
+Kelci Walkden,India,Milk Bars,966,107,1,9.02803738317757,966.0
+Andria Kimpton,New Zealand,Peanut Butter Cubes,959,265,1,3.6188679245283017,959.0
+Andria Kimpton,India,After Nines,952,68,1,14.0,952.0
+Dennison Crosswaite,India,Fruit & Nut Bars,952,24,1,39.666666666666664,952.0
+Karlen McCaffrey,India,85% Dark Bars,945,83,1,11.385542168674698,945.0
+Kelci Walkden,USA,After Nines,938,16,1,58.625,938.0
+Husein Augar,Australia,Organic Choco Syrup,938,158,1,5.936708860759493,938.0
+Dotty Strutley,India,Spicy Special Slims,910,204,1,4.46078431372549,910.0
+Gigi Bohling,Australia,Almond Choco,910,117,1,7.777777777777778,910.0
+Ches Bonnell,New Zealand,Peanut Butter Cubes,889,273,1,3.2564102564102564,889.0
+Karlen McCaffrey,USA,Eclairs,868,125,1,6.944,868.0
+Husein Augar,USA,Milk Bars,854,56,1,15.25,854.0
+Curtice Advani,Canada,Spicy Special Slims,854,118,1,7.237288135593221,854.0
+Curtice Advani,Australia,Orange Choco,854,136,1,6.279411764705882,854.0
+Gigi Bohling,UK,70% Dark Bites,840,81,1,10.37037037037037,840.0
+Kelci Walkden,Canada,Fruit & Nut Bars,826,149,1,5.543624161073826,826.0
+Mallorie Waber,India,White Choc,819,213,1,3.8450704225352115,819.0
+Curtice Advani,Canada,Organic Choco Syrup,791,22,1,35.95454545454545,791.0
+Gigi Bohling,USA,99% Dark & Pure,784,249,1,3.1485943775100402,784.0
+Dennison Crosswaite,India,Orange Choco,784,129,1,6.077519379844961,784.0
+Dennison Crosswaite,USA,Milk Bars,777,60,1,12.95,777.0
+Gunar Cockshoot,UK,Smooth Sliky Salty,749,148,1,5.0608108108108105,749.0
+Beverie Moffet,Australia,Milk Bars,735,390,1,1.8846153846153846,735.0
+Oby Sorrel,Australia,50% Dark Bites,721,151,1,4.774834437086093,721.0
+Curtice Advani,Canada,Eclairs,721,203,1,3.5517241379310347,721.0
+Jan Morforth,UK,Baker's Choco Chips,721,251,1,2.8725099601593627,721.0
+Beverie Moffet,Australia,50% Dark Bites,700,457,1,1.5317286652078774,700.0
+Gigi Bohling,New Zealand,Smooth Sliky Salty,700,97,1,7.216494845360825,700.0
+Marney O'Breen,USA,Peanut Butter Cubes,693,350,1,1.98,693.0
+Kelci Walkden,Australia,Raspberry Choco,679,56,1,12.125,679.0
+Rafaelita Blaksland,New Zealand,70% Dark Bites,679,280,1,2.425,679.0
+Brien Boise,USA,Raspberry Choco,672,194,1,3.463917525773196,672.0
+Kelci Walkden,New Zealand,Spicy Special Slims,658,65,1,10.123076923076923,658.0
+Dennison Crosswaite,USA,70% Dark Bites,658,77,1,8.545454545454545,658.0
+Karlen McCaffrey,Canada,Raspberry Choco,651,224,1,2.90625,651.0
+Van Tuxwell,Australia,50% Dark Bites,644,137,1,4.700729927007299,644.0
+Camilla Castle,Australia,Manuka Honey Choco,637,169,1,3.769230769230769,637.0
+Brien Boise,New Zealand,Organic Choco Syrup,637,313,1,2.0351437699680512,637.0
+Gunar Cockshoot,New Zealand,Raspberry Choco,630,52,1,12.115384615384615,630.0
+Van Tuxwell,USA,After Nines,630,264,1,2.3863636363636362,630.0
+Wilone O'Kielt,Australia,Drinking Coco,623,283,1,2.2014134275618376,623.0
+Roddy Speechley,Canada,Milk Bars,609,32,1,19.03125,609.0
+Gunar Cockshoot,Australia,Raspberry Choco,602,72,1,8.36111111111111,602.0
+Mallorie Waber,India,50% Dark Bites,588,139,1,4.23021582733813,588.0
+Barr Faughny,UK,50% Dark Bites,581,65,1,8.938461538461539,581.0
+Ches Bonnell,Canada,Organic Choco Syrup,574,217,1,2.6451612903225805,574.0
+Gigi Bohling,Australia,Orange Choco,574,156,1,3.6794871794871793,574.0
+Dennison Crosswaite,UK,Smooth Sliky Salty,546,142,1,3.8450704225352115,546.0
+Curtice Advani,Australia,50% Dark Bites,504,232,1,2.1724137931034484,504.0
+Wilone O'Kielt,USA,Smooth Sliky Salty,504,87,1,5.793103448275862,504.0
+Husein Augar,New Zealand,Caramel Stuffed Bars,497,475,1,1.0463157894736843,497.0
+Ches Bonnell,New Zealand,Eclairs,490,49,1,10.0,490.0
+Kaine Padly,USA,85% Dark Bars,483,259,1,1.864864864864865,483.0
+Rafaelita Blaksland,Canada,Fruit & Nut Bars,483,185,1,2.610810810810811,483.0
+Mallorie Waber,New Zealand,After Nines,483,228,1,2.1184210526315788,483.0
+Kelci Walkden,India,Caramel Stuffed Bars,476,125,1,3.808,476.0
+Gigi Bohling,USA,Milk Bars,476,133,1,3.5789473684210527,476.0
+Camilla Castle,India,Drinking Coco,469,163,1,2.8773006134969323,469.0
+Ches Bonnell,India,99% Dark & Pure,455,96,1,4.739583333333333,455.0
+Dennison Crosswaite,Canada,Eclairs,455,45,1,10.11111111111111,455.0
+Curtice Advani,UK,Drinking Coco,455,174,1,2.6149425287356323,455.0
+Beverie Moffet,India,70% Dark Bites,448,146,1,3.0684931506849313,448.0
+Jehu Rudeforth,Canada,Drinking Coco,441,24,1,18.375,441.0
+Van Tuxwell,Canada,White Choc,420,3,1,140.0,420.0
+Wilone O'Kielt,USA,After Nines,392,30,1,13.066666666666666,392.0
+Wilone O'Kielt,Australia,Fruit & Nut Bars,392,102,1,3.843137254901961,392.0
+Barr Faughny,USA,Almond Choco,385,78,1,4.935897435897436,385.0
+Husein Augar,USA,85% Dark Bars,378,54,1,7.0,378.0
+Dennison Crosswaite,New Zealand,Organic Choco Syrup,371,229,1,1.6200873362445414,371.0
+Jehu Rudeforth,USA,Orange Choco,364,170,1,2.1411764705882352,364.0
+Andria Kimpton,Australia,Baker's Choco Chips,329,109,1,3.018348623853211,329.0
+Andria Kimpton,Canada,Eclairs,308,125,1,2.464,308.0
+Brien Boise,Australia,Peanut Butter Cubes,301,205,1,1.4682926829268292,301.0
+Andria Kimpton,India,Orange Choco,301,421,1,0.7149643705463183,301.0
+Wilone O'Kielt,UK,Milk Bars,301,65,1,4.630769230769231,301.0
+Gigi Bohling,USA,Peanut Butter Cubes,280,75,1,3.7333333333333334,280.0
+Dotty Strutley,Australia,Fruit & Nut Bars,280,311,1,0.9003215434083601,280.0
+Dotty Strutley,USA,Manuka Honey Choco,273,210,1,1.3,273.0
+Marney O'Breen,Australia,Organic Choco Syrup,273,174,1,1.5689655172413792,273.0
+Curtice Advani,India,85% Dark Bars,273,402,1,0.6791044776119403,273.0
+Dotty Strutley,Canada,After Nines,252,237,1,1.0632911392405062,252.0
+Marney O'Breen,UK,Baker's Choco Chips,252,154,1,1.6363636363636365,252.0
+Karlen McCaffrey,Australia,70% Dark Bites,238,317,1,0.750788643533123,238.0
+Karlen McCaffrey,Canada,Fruit & Nut Bars,210,16,1,13.125,210.0
+Camilla Castle,India,99% Dark & Pure,203,207,1,0.9806763285024155,203.0
+Karlen McCaffrey,New Zealand,Drinking Coco,168,156,1,1.0769230769230769,168.0
+Karlen McCaffrey,India,Fruit & Nut Bars,168,321,1,0.5233644859813084,168.0
+Madelene Upcott,UK,Caramel Stuffed Bars,161,145,1,1.110344827586207,161.0
+Curtice Advani,India,Spicy Special Slims,161,134,1,1.2014925373134329,161.0
+Kelci Walkden,New Zealand,After Nines,147,72,1,2.0416666666666665,147.0
+Karlen McCaffrey,New Zealand,70% Dark Bites,126,40,1,3.15,126.0
+Karlen McCaffrey,USA,Drinking Coco,112,223,1,0.5022421524663677,112.0
+Van Tuxwell,Australia,99% Dark & Pure,112,128,1,0.875,112.0
+Brien Boise,UK,Almond Choco,105,125,1,0.84,105.0
+Dotty Strutley,Australia,Drinking Coco,91,135,1,0.674074074074074,91.0
+Jan Morforth,India,Caramel Stuffed Bars,84,153,1,0.5490196078431373,84.0
+Kelci Walkden,USA,Spicy Special Slims,77,69,1,1.1159420289855073,77.0
+Kaine Padly,USA,50% Dark Bites,70,27,1,2.5925925925925926,70.0
+Brien Boise,UK,Manuka Honey Choco,70,103,1,0.6796116504854369,70.0
+Curtice Advani,Australia,After Nines,63,105,1,0.6,63.0
+Brien Boise,New Zealand,Mint Chip Choco,63,181,1,0.34806629834254144,63.0
+Beverie Moffet,New Zealand,Spicy Special Slims,63,60,1,1.05,63.0
+Roddy Speechley,New Zealand,Orange Choco,49,97,1,0.5051546391752577,49.0
+Oby Sorrel,India,Choco Coated Almonds,49,363,1,0.1349862258953168,49.0
+Jehu Rudeforth,India,Peanut Butter Cubes,28,446,1,0.06278026905829596,28.0
+Kaine Padly,New Zealand,Smooth Sliky Salty,7,518,1,0.013513513513513514,7.0
+Gunar Cockshoot,UK,99% Dark & Pure,7,84,1,0.08333333333333333,7.0

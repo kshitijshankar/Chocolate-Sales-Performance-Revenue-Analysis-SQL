@@ -1,0 +1,25 @@
+Country,Revenue_Band,Transactions
+Australia,Below 5k,100
+Australia,5k-10k,79
+Australia,10k - 15k,22
+Australia,15k+,4
+Canada,Below 5k,94
+Canada,5k-10k,57
+Canada,10k - 15k,20
+Canada,15k+,4
+India,Below 5k,100
+India,5k-10k,52
+India,10k - 15k,25
+India,15k+,7
+New Zealand,Below 5k,85
+New Zealand,5k-10k,67
+New Zealand,10k - 15k,16
+New Zealand,15k+,5
+UK,Below 5k,88
+UK,5k-10k,60
+UK,10k - 15k,25
+UK,15k+,5
+USA,Below 5k,91
+USA,5k-10k,56
+USA,10k - 15k,24
+USA,15k+,8

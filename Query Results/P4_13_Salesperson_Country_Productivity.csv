@@ -1,0 +1,151 @@
+Sales_Person,Country,Total_Revenue,Transaction_Count,Revenue_Per_Transaction
+Camilla Castle,Canada,29967,3,9989.0
+Ches Bonnell,India,98763,10,9876.3
+Beverie Moffet,Canada,71995,8,8999.375
+Roddy Speechley,UK,33775,4,8443.75
+Madelene Upcott,New Zealand,67550,8,8443.75
+Oby Sorrel,India,75579,9,8397.666666666666
+Kelci Walkden,Canada,57078,7,8154.0
+Madelene Upcott,Canada,47866,6,7977.666666666667
+Madelene Upcott,UK,71330,9,7925.555555555556
+Mallorie Waber,Australia,71134,9,7903.777777777777
+Madelene Upcott,USA,54656,7,7808.0
+Van Tuxwell,India,85785,11,7798.636363636364
+Barr Faughny,Australia,46536,6,7756.0
+Karlen McCaffrey,USA,61628,8,7703.5
+Beverie Moffet,USA,53466,7,7638.0
+Rafaelita Blaksland,UK,38024,5,7604.8
+Brien Boise,Canada,60375,8,7546.875
+Barr Faughny,USA,58961,8,7370.125
+Brien Boise,USA,58170,8,7271.25
+Dennison Crosswaite,Australia,65275,9,7252.777777777777
+Marney O'Breen,UK,57169,8,7146.125
+Van Tuxwell,Australia,57050,8,7131.25
+Andria Kimpton,USA,35630,5,7126.0
+Marney O'Breen,Australia,49791,7,7113.0
+Jehu Rudeforth,Australia,56609,8,7076.125
+Gunar Cockshoot,New Zealand,42112,6,7018.666666666667
+Dotty Strutley,UK,34902,5,6980.4
+Kaine Padly,New Zealand,27860,4,6965.0
+Oby Sorrel,UK,69279,10,6927.9
+Jan Morforth,Australia,48468,7,6924.0
+Kaine Padly,UK,69034,10,6903.4
+Kaine Padly,India,20692,3,6897.333333333333
+Dennison Crosswaite,UK,48167,7,6881.0
+Oby Sorrel,New Zealand,54215,8,6776.875
+Ches Bonnell,Canada,40656,6,6776.0
+Rafaelita Blaksland,USA,33754,5,6750.8
+Rafaelita Blaksland,India,33327,5,6665.4
+Husein Augar,Australia,53095,8,6636.875
+Camilla Castle,UK,19831,3,6610.333333333333
+Rafaelita Blaksland,New Zealand,39599,6,6599.833333333333
+Roddy Speechley,India,58786,9,6531.777777777777
+Marney O'Breen,New Zealand,58212,9,6468.0
+Gunar Cockshoot,Canada,51744,8,6468.0
+Roddy Speechley,Australia,31675,5,6335.0
+Dennison Crosswaite,USA,69545,11,6322.272727272727
+Kelci Walkden,USA,69356,11,6305.090909090909
+Dotty Strutley,New Zealand,31346,5,6269.2
+Camilla Castle,USA,43519,7,6217.0
+Barr Faughny,India,30842,5,6168.4
+Camilla Castle,India,30807,5,6161.4
+Andria Kimpton,UK,36659,6,6109.833333333333
+Gigi Bohling,Canada,42420,7,6060.0
+Brien Boise,India,60578,10,6057.8
+Husein Augar,UK,54390,9,6043.333333333333
+Ches Bonnell,USA,36239,6,6039.833333333333
+Jan Morforth,Canada,29918,5,5983.6
+Kaine Padly,Australia,58415,10,5841.5
+Gigi Bohling,UK,52472,9,5830.222222222223
+Jehu Rudeforth,UK,69895,12,5824.583333333333
+Camilla Castle,New Zealand,40558,7,5794.0
+Gigi Bohling,New Zealand,40544,7,5792.0
+Kelci Walkden,Australia,51961,9,5773.444444444444
+Karlen McCaffrey,UK,23037,4,5759.25
+Ches Bonnell,UK,51772,9,5752.444444444444
+Kelci Walkden,UK,45983,8,5747.875
+Curtice Advani,USA,28735,5,5747.0
+Barr Faughny,Canada,45927,8,5740.875
+Jan Morforth,New Zealand,22953,4,5738.25
+Ches Bonnell,Australia,45871,8,5733.875
+Jan Morforth,India,67956,12,5663.0
+Gunar Cockshoot,India,39368,7,5624.0
+Kelci Walkden,New Zealand,39172,7,5596.0
+Barr Faughny,New Zealand,61145,11,5558.636363636364
+Dotty Strutley,USA,44303,8,5537.875
+Husein Augar,Canada,21980,4,5495.0
+Brien Boise,Australia,60417,11,5492.454545454545
+Andria Kimpton,New Zealand,32844,6,5474.0
+Mallorie Waber,UK,27251,5,5450.2
+Van Tuxwell,USA,32536,6,5422.666666666667
+Roddy Speechley,Canada,48552,9,5394.666666666667
+Oby Sorrel,Australia,37709,7,5387.0
+Dotty Strutley,Canada,16149,3,5383.0
+Oby Sorrel,USA,37499,7,5357.0
+Curtice Advani,New Zealand,31955,6,5325.833333333333
+Madelene Upcott,Australia,58359,11,5305.363636363636
+Husein Augar,India,37079,7,5297.0
+Oby Sorrel,Canada,42364,8,5295.5
+Ches Bonnell,New Zealand,47600,9,5288.888888888889
+Curtice Advani,India,47579,9,5286.555555555556
+Wilone O'Kielt,New Zealand,42000,8,5250.0
+Van Tuxwell,Canada,51870,10,5187.0
+Gunar Cockshoot,Australia,35987,7,5141.0
+Dotty Strutley,India,25690,5,5138.0
+Kaine Padly,Canada,45934,9,5103.777777777777
+Marney O'Breen,USA,40593,8,5074.125
+Van Tuxwell,UK,45514,9,5057.111111111111
+Rafaelita Blaksland,Australia,40439,8,5054.875
+Rafaelita Blaksland,Canada,25102,5,5020.4
+Beverie Moffet,New Zealand,45150,9,5016.666666666667
+Roddy Speechley,USA,40103,8,5012.875
+Karlen McCaffrey,Australia,40096,8,5012.0
+Dennison Crosswaite,New Zealand,30058,6,5009.666666666667
+Dennison Crosswaite,India,39641,8,4955.125
+Marney O'Breen,India,34685,7,4955.0
+Kaine Padly,USA,44555,9,4950.555555555556
+Beverie Moffet,UK,39522,8,4940.25
+Dennison Crosswaite,Canada,38983,8,4872.875
+Curtice Advani,UK,34055,7,4865.0
+Mallorie Waber,New Zealand,33705,7,4815.0
+Jan Morforth,USA,14399,3,4799.666666666667
+Wilone O'Kielt,India,23996,5,4799.2
+Gunar Cockshoot,UK,38318,8,4789.75
+Roddy Speechley,New Zealand,38171,8,4771.375
+Jehu Rudeforth,USA,23268,5,4653.6
+Brien Boise,New Zealand,41685,9,4631.666666666667
+Karlen McCaffrey,India,41111,9,4567.888888888889
+Camilla Castle,Australia,31934,7,4562.0
+Andria Kimpton,India,27146,6,4524.333333333333
+Brien Boise,UK,31591,7,4513.0
+Jan Morforth,UK,35973,8,4496.625
+Gunar Cockshoot,USA,30954,7,4422.0
+Jehu Rudeforth,India,26432,6,4405.333333333333
+Andria Kimpton,Canada,39298,9,4366.444444444444
+Van Tuxwell,New Zealand,30394,7,4342.0
+Andria Kimpton,Australia,30170,7,4310.0
+Gigi Bohling,Australia,38731,9,4303.444444444444
+Husein Augar,USA,29680,7,4240.0
+Wilone O'Kielt,Canada,8428,2,4214.0
+Gigi Bohling,USA,41594,10,4159.4
+Beverie Moffet,India,41363,10,4136.3
+Madelene Upcott,India,16338,4,4084.5
+Mallorie Waber,USA,24269,6,4044.8333333333335
+Kelci Walkden,India,48160,12,4013.3333333333335
+Wilone O'Kielt,USA,27937,7,3991.0
+Curtice Advani,Canada,39767,10,3976.7
+Jehu Rudeforth,Canada,27020,7,3860.0
+Dotty Strutley,Australia,38234,10,3823.4
+Curtice Advani,Australia,34370,9,3818.8888888888887
+Jehu Rudeforth,New Zealand,17752,5,3550.4
+Mallorie Waber,India,17192,5,3438.4
+Beverie Moffet,Australia,27426,8,3428.25
+Gigi Bohling,India,16905,5,3381.0
+Karlen McCaffrey,Canada,33173,10,3317.3
+Marney O'Breen,Canada,19292,6,3215.3333333333335
+Karlen McCaffrey,New Zealand,24850,8,3106.25
+Wilone O'Kielt,Australia,27615,9,3068.3333333333335
+Barr Faughny,UK,15302,5,3060.4
+Mallorie Waber,Canada,27041,9,3004.5555555555557
+Husein Augar,New Zealand,8988,3,2996.0
+Wilone O'Kielt,UK,8547,3,2849.0

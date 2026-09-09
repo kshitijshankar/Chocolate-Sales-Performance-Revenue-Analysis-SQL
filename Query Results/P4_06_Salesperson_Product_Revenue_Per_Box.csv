@@ -1,0 +1,493 @@
+Sales_Person,Product,Total_Revenue,Total_Boxes,Revenue_Per_Box
+Van Tuxwell,Spicy Special Slims,6167,4,1541.75
+Ches Bonnell,85% Dark Bars,14924,12,1243.6666666666667
+Madelene Upcott,50% Dark Bites,7350,6,1225.0
+Curtice Advani,Choco Coated Almonds,5859,7,837.0
+Andria Kimpton,Raspberry Choco,14504,21,690.6666666666666
+Andria Kimpton,70% Dark Bites,10262,15,684.1333333333333
+Karlen McCaffrey,Milk Bars,4389,7,627.0
+Dennison Crosswaite,50% Dark Bites,7287,12,607.25
+Gunar Cockshoot,White Choc,7560,15,504.0
+Barr Faughny,Orange Choco,11305,29,389.82758620689657
+Brien Boise,Fruit & Nut Bars,8575,23,372.82608695652175
+Mallorie Waber,Raspberry Choco,9800,29,337.9310344827586
+Husein Augar,50% Dark Bites,14889,52,286.3269230769231
+Roddy Speechley,Fruit & Nut Bars,5509,24,229.54166666666666
+Barr Faughny,Eclairs,6713,31,216.5483870967742
+Wilone O'Kielt,Orange Choco,7042,37,190.32432432432432
+Curtice Advani,99% Dark & Pure,17262,91,189.69230769230768
+Rafaelita Blaksland,Mint Chip Choco,15491,85,182.24705882352941
+Beverie Moffet,Raspberry Choco,14798,83,178.289156626506
+Rafaelita Blaksland,Caramel Stuffed Bars,20202,115,175.6695652173913
+Madelene Upcott,Smooth Sliky Salty,14539,84,173.08333333333334
+Rafaelita Blaksland,Eclairs,20860,121,172.39669421487602
+Kelci Walkden,Peanut Butter Cubes,7532,44,171.1818181818182
+Kaine Padly,Eclairs,28189,173,162.94219653179192
+Ches Bonnell,Almond Choco,11788,73,161.4794520547945
+Jan Morforth,White Choc,12271,79,155.32911392405063
+Camilla Castle,85% Dark Bars,30177,198,152.4090909090909
+Curtice Advani,Smooth Sliky Salty,21987,147,149.57142857142858
+Gunar Cockshoot,Manuka Honey Choco,6762,46,147.0
+Camilla Castle,Orange Choco,7770,54,143.88888888888889
+Madelene Upcott,Almond Choco,17745,126,140.83333333333334
+Dennison Crosswaite,Almond Choco,11718,84,139.5
+Oby Sorrel,Drinking Coco,24094,174,138.4712643678161
+Gigi Bohling,85% Dark Bars,12362,94,131.51063829787233
+Brien Boise,After Nines,5747,45,127.71111111111111
+Jan Morforth,Smooth Sliky Salty,11298,89,126.9438202247191
+Dotty Strutley,Peanut Butter Cubes,9107,73,124.75342465753425
+Rafaelita Blaksland,50% Dark Bites,13160,108,121.85185185185185
+Gigi Bohling,Choco Coated Almonds,12313,103,119.54368932038835
+Oby Sorrel,Baker's Choco Chips,19824,167,118.7065868263473
+Jan Morforth,Drinking Coco,2821,24,117.54166666666667
+Van Tuxwell,Smooth Sliky Salty,8491,80,106.1375
+Barr Faughny,Fruit & Nut Bars,26166,248,105.50806451612904
+Karlen McCaffrey,Mint Chip Choco,30968,298,103.91946308724832
+Ches Bonnell,Smooth Sliky Salty,31066,303,102.52805280528052
+Van Tuxwell,Organic Choco Syrup,45451,444,102.36711711711712
+Jehu Rudeforth,Almond Choco,10122,100,101.22
+Andria Kimpton,White Choc,13104,130,100.8
+Marney O'Breen,Smooth Sliky Salty,31220,315,99.11111111111111
+Kelci Walkden,Manuka Honey Choco,18676,193,96.76683937823834
+Husein Augar,Spicy Special Slims,7189,75,95.85333333333334
+Kelci Walkden,Milk Bars,24892,260,95.73846153846154
+Gunar Cockshoot,Choco Coated Almonds,18837,197,95.61928934010152
+Gigi Bohling,Almond Choco,16541,175,94.52
+Barr Faughny,After Nines,18214,193,94.37305699481865
+Kaine Padly,Milk Bars,22442,238,94.29411764705883
+Barr Faughny,85% Dark Bars,23359,248,94.18951612903226
+Mallorie Waber,Manuka Honey Choco,24675,262,94.1793893129771
+Jan Morforth,Eclairs,2541,27,94.11111111111111
+Dotty Strutley,Almond Choco,17570,187,93.9572192513369
+Camilla Castle,White Choc,19663,211,93.18957345971565
+Barr Faughny,Raspberry Choco,30499,336,90.77083333333333
+Curtice Advani,70% Dark Bites,4585,51,89.90196078431373
+Madelene Upcott,Organic Choco Syrup,22540,251,89.800796812749
+Dennison Crosswaite,Choco Coated Almonds,10479,118,88.80508474576271
+Gunar Cockshoot,50% Dark Bites,30394,343,88.61224489795919
+Marney O'Breen,Fruit & Nut Bars,13692,155,88.33548387096774
+Kaine Padly,Fruit & Nut Bars,7434,85,87.45882352941176
+Madelene Upcott,White Choc,23044,264,87.28787878787878
+Roddy Speechley,After Nines,10577,122,86.69672131147541
+Van Tuxwell,Caramel Stuffed Bars,6923,80,86.5375
+Gigi Bohling,50% Dark Bites,16163,192,84.18229166666667
+Kaine Padly,Caramel Stuffed Bars,15785,189,83.51851851851852
+Brien Boise,Choco Coated Almonds,5124,62,82.64516129032258
+Jehu Rudeforth,85% Dark Bars,12474,153,81.52941176470588
+Beverie Moffet,Orange Choco,8722,109,80.01834862385321
+Jan Morforth,Almond Choco,14210,179,79.3854748603352
+Brien Boise,Baker's Choco Chips,18494,236,78.36440677966101
+Ches Bonnell,Organic Choco Syrup,32487,415,78.28192771084338
+Van Tuxwell,70% Dark Bites,14140,181,78.12154696132596
+Husein Augar,Manuka Honey Choco,7161,92,77.83695652173913
+Kaine Padly,50% Dark Bites,20895,272,76.81985294117646
+Kelci Walkden,White Choc,25746,340,75.7235294117647
+Oby Sorrel,Peanut Butter Cubes,12425,167,74.40119760479043
+Madelene Upcott,99% Dark & Pure,14805,199,74.39698492462311
+Beverie Moffet,85% Dark Bars,29743,401,74.17206982543641
+Van Tuxwell,Manuka Honey Choco,10934,148,73.87837837837837
+Dotty Strutley,Caramel Stuffed Bars,22750,311,73.15112540192926
+Brien Boise,Manuka Honey Choco,23884,335,71.2955223880597
+Mallorie Waber,Mint Chip Choco,7700,109,70.64220183486239
+Wilone O'Kielt,Eclairs,6860,98,70.0
+Jehu Rudeforth,Eclairs,8771,127,69.06299212598425
+Karlen McCaffrey,White Choc,19432,282,68.90780141843972
+Gigi Bohling,Spicy Special Slims,22785,331,68.83685800604229
+Brien Boise,Milk Bars,29785,433,68.78752886836028
+Van Tuxwell,Milk Bars,12173,177,68.77401129943503
+Ches Bonnell,Spicy Special Slims,19789,295,67.0813559322034
+Beverie Moffet,Peanut Butter Cubes,24752,369,67.07859078590786
+Beverie Moffet,Eclairs,20615,308,66.93181818181819
+Jehu Rudeforth,Milk Bars,30408,456,66.6842105263158
+Brien Boise,Peanut Butter Cubes,15631,235,66.51489361702127
+Van Tuxwell,50% Dark Bites,32795,494,66.38663967611336
+Marney O'Breen,Eclairs,8386,127,66.03149606299213
+Madelene Upcott,Fruit & Nut Bars,19768,302,65.45695364238411
+Roddy Speechley,Raspberry Choco,12635,194,65.12886597938144
+Curtice Advani,Caramel Stuffed Bars,9114,140,65.1
+Kelci Walkden,Organic Choco Syrup,9870,152,64.9342105263158
+Husein Augar,Raspberry Choco,9954,154,64.63636363636364
+Mallorie Waber,Peanut Butter Cubes,1162,18,64.55555555555556
+Karlen McCaffrey,99% Dark & Pure,10822,168,64.41666666666667
+Van Tuxwell,99% Dark & Pure,17423,271,64.29151291512915
+Wilone O'Kielt,Almond Choco,9198,144,63.875
+Ches Bonnell,Drinking Coco,8302,131,63.37404580152672
+Camilla Castle,Smooth Sliky Salty,7406,118,62.76271186440678
+Jan Morforth,Mint Chip Choco,37030,599,61.819699499165274
+Mallorie Waber,Choco Coated Almonds,20531,333,61.65465465465466
+Madelene Upcott,Mint Chip Choco,14000,228,61.40350877192982
+Dennison Crosswaite,99% Dark & Pure,21833,356,61.32865168539326
+Roddy Speechley,Orange Choco,12250,201,60.9452736318408
+Brien Boise,85% Dark Bars,28273,464,60.93318965517241
+Roddy Speechley,Smooth Sliky Salty,17458,291,59.99312714776632
+Curtice Advani,After Nines,22169,370,59.91621621621621
+Wilone O'Kielt,50% Dark Bites,14532,245,59.31428571428572
+Andria Kimpton,Spicy Special Slims,8673,147,59.0
+Beverie Moffet,Manuka Honey Choco,9835,167,58.89221556886228
+Husein Augar,Orange Choco,13258,228,58.14912280701754
+Marney O'Breen,Manuka Honey Choco,24059,415,57.973493975903615
+Dennison Crosswaite,Peanut Butter Cubes,8925,158,56.4873417721519
+Gunar Cockshoot,Spicy Special Slims,40537,722,56.14542936288089
+Barr Faughny,Baker's Choco Chips,17423,311,56.02250803858521
+Kelci Walkden,Drinking Coco,32921,588,55.98809523809524
+Oby Sorrel,Organic Choco Syrup,30709,557,55.132854578096946
+Rafaelita Blaksland,99% Dark & Pure,20706,376,55.069148936170215
+Marney O'Breen,Baker's Choco Chips,14532,264,55.04545454545455
+Oby Sorrel,Spicy Special Slims,29834,544,54.841911764705884
+Van Tuxwell,Baker's Choco Chips,28413,523,54.32695984703633
+Roddy Speechley,Peanut Butter Cubes,17710,329,53.829787234042556
+Jehu Rudeforth,Raspberry Choco,7154,133,53.78947368421053
+Curtice Advani,Almond Choco,7777,145,53.63448275862069
+Van Tuxwell,Eclairs,21203,397,53.4080604534005
+Dotty Strutley,Baker's Choco Chips,3605,68,53.01470588235294
+Gigi Bohling,Caramel Stuffed Bars,8001,151,52.98675496688742
+Husein Augar,99% Dark & Pure,12621,239,52.80753138075314
+Gigi Bohling,Eclairs,10745,204,52.67156862745098
+Dotty Strutley,White Choc,25396,483,52.57971014492754
+Madelene Upcott,Peanut Butter Cubes,27671,531,52.111111111111114
+Dennison Crosswaite,Organic Choco Syrup,35721,687,51.995633187772924
+Mallorie Waber,Orange Choco,24745,476,51.98529411764706
+Gunar Cockshoot,85% Dark Bars,7007,135,51.903703703703705
+Wilone O'Kielt,Choco Coated Almonds,12390,239,51.84100418410042
+Rafaelita Blaksland,Baker's Choco Chips,5649,109,51.825688073394495
+Beverie Moffet,Baker's Choco Chips,18011,348,51.75574712643678
+Gigi Bohling,White Choc,13503,263,51.342205323193916
+Gunar Cockshoot,Eclairs,10535,206,51.140776699029125
+Roddy Speechley,Almond Choco,7189,141,50.98581560283688
+Oby Sorrel,Manuka Honey Choco,8246,162,50.901234567901234
+Ches Bonnell,Choco Coated Almonds,42854,842,50.895486935866984
+Karlen McCaffrey,85% Dark Bars,7014,138,50.82608695652174
+Rafaelita Blaksland,White Choc,11522,228,50.53508771929825
+Husein Augar,Almond Choco,8309,166,50.05421686746988
+Oby Sorrel,Smooth Sliky Salty,31976,639,50.04068857589984
+Wilone O'Kielt,After Nines,15743,318,49.5062893081761
+Karlen McCaffrey,Almond Choco,20223,410,49.32439024390244
+Gigi Bohling,Fruit & Nut Bars,20811,422,49.31516587677725
+Van Tuxwell,White Choc,2317,47,49.297872340425535
+Camilla Castle,Manuka Honey Choco,17038,348,48.95977011494253
+Andria Kimpton,Milk Bars,14336,293,48.9283276450512
+Jan Morforth,99% Dark & Pure,9100,187,48.663101604278076
+Roddy Speechley,Organic Choco Syrup,7679,158,48.60126582278481
+Jan Morforth,Peanut Butter Cubes,29855,622,47.9983922829582
+Kaine Padly,After Nines,31374,654,47.972477064220186
+Camilla Castle,Spicy Special Slims,12838,268,47.90298507462686
+Curtice Advani,Milk Bars,10416,219,47.56164383561644
+Gunar Cockshoot,Fruit & Nut Bars,34958,736,47.49728260869565
+Rafaelita Blaksland,Spicy Special Slims,19929,423,47.11347517730496
+Kelci Walkden,Smooth Sliky Salty,27125,578,46.92906574394463
+Marney O'Breen,Almond Choco,7798,167,46.69461077844311
+Oby Sorrel,99% Dark & Pure,27545,590,46.686440677966104
+Ches Bonnell,Caramel Stuffed Bars,26110,560,46.625
+Rafaelita Blaksland,Choco Coated Almonds,2093,45,46.51111111111111
+Roddy Speechley,Drinking Coco,26838,580,46.272413793103446
+Gigi Bohling,Drinking Coco,12138,263,46.152091254752854
+Mallorie Waber,Eclairs,27734,605,45.841322314049584
+Madelene Upcott,70% Dark Bites,33390,733,45.5525238744884
+Kaine Padly,70% Dark Bites,30128,662,45.51057401812689
+Andria Kimpton,Organic Choco Syrup,17094,377,45.342175066313
+Ches Bonnell,Orange Choco,17171,379,45.306068601583114
+Beverie Moffet,Mint Chip Choco,4361,97,44.95876288659794
+Kelci Walkden,Choco Coated Almonds,9506,212,44.839622641509436
+Rafaelita Blaksland,Drinking Coco,29960,669,44.78325859491779
+Madelene Upcott,Eclairs,8883,200,44.415
+Husein Augar,Fruit & Nut Bars,13587,306,44.40196078431372
+Wilone O'Kielt,Mint Chip Choco,12971,293,44.26962457337884
+Kaine Padly,Spicy Special Slims,15449,349,44.26647564469914
+Jan Morforth,Baker's Choco Chips,14448,330,43.78181818181818
+Ches Bonnell,Peanut Butter Cubes,35294,809,43.62669962917182
+Camilla Castle,Raspberry Choco,14427,333,43.32432432432432
+Roddy Speechley,50% Dark Bites,23107,539,42.87012987012987
+Dennison Crosswaite,Raspberry Choco,12264,288,42.583333333333336
+Rafaelita Blaksland,Smooth Sliky Salty,25368,598,42.42140468227425
+Andria Kimpton,Mint Chip Choco,8848,211,41.93364928909953
+Dennison Crosswaite,85% Dark Bars,22281,532,41.88157894736842
+Barr Faughny,99% Dark & Pure,8134,195,41.712820512820514
+Andria Kimpton,85% Dark Bars,13097,315,41.577777777777776
+Brien Boise,Orange Choco,6020,147,40.95238095238095
+Roddy Speechley,99% Dark & Pure,7483,183,40.89071038251366
+Ches Bonnell,Mint Chip Choco,21406,530,40.38867924528302
+Dennison Crosswaite,White Choc,16730,416,40.21634615384615
+Marney O'Breen,Raspberry Choco,6069,151,40.19205298013245
+Curtice Advani,Fruit & Nut Bars,20363,507,40.16370808678501
+Madelene Upcott,Baker's Choco Chips,5621,140,40.15
+Brien Boise,Spicy Special Slims,17983,448,40.140625
+Marney O'Breen,Organic Choco Syrup,8897,224,39.71875
+Camilla Castle,Peanut Butter Cubes,18291,465,39.33548387096774
+Kaine Padly,Choco Coated Almonds,11186,287,38.97560975609756
+Kaine Padly,Manuka Honey Choco,20111,517,38.89941972920696
+Gigi Bohling,Manuka Honey Choco,13202,345,38.266666666666666
+Beverie Moffet,White Choc,32221,852,37.818075117370896
+Van Tuxwell,85% Dark Bars,13195,349,37.808022922636106
+Husein Augar,White Choc,16016,425,37.684705882352944
+Jehu Rudeforth,Fruit & Nut Bars,8589,229,37.506550218340614
+Van Tuxwell,Raspberry Choco,7805,209,37.344497607655505
+Dotty Strutley,Manuka Honey Choco,11823,321,36.83177570093458
+Kaine Padly,Organic Choco Syrup,10346,281,36.81850533807829
+Brien Boise,Drinking Coco,14168,389,36.42159383033419
+Dotty Strutley,Raspberry Choco,13629,375,36.344
+Mallorie Waber,Almond Choco,19082,528,36.140151515151516
+Ches Bonnell,50% Dark Bites,11298,313,36.09584664536741
+Husein Augar,After Nines,31283,868,36.04032258064516
+Kelci Walkden,Orange Choco,25543,711,35.92545710267229
+Barr Faughny,50% Dark Bites,28357,793,35.75914249684742
+Marney O'Breen,99% Dark & Pure,23030,647,35.595054095826896
+Barr Faughny,White Choc,21476,606,35.43894389438944
+Dennison Crosswaite,70% Dark Bites,6517,185,35.22702702702703
+Andria Kimpton,Caramel Stuffed Bars,23471,669,35.08370702541106
+Marney O'Breen,Orange Choco,21637,618,35.01132686084142
+Marney O'Breen,Drinking Coco,973,28,34.75
+Dennison Crosswaite,Baker's Choco Chips,33586,967,34.73216132368149
+Oby Sorrel,70% Dark Bites,6223,181,34.38121546961326
+Karlen McCaffrey,After Nines,2303,67,34.37313432835821
+Kelci Walkden,70% Dark Bites,3640,106,34.339622641509436
+Rafaelita Blaksland,Almond Choco,3395,99,34.292929292929294
+Oby Sorrel,Almond Choco,12474,364,34.26923076923077
+Roddy Speechley,Spicy Special Slims,12299,359,34.259052924791085
+Roddy Speechley,Baker's Choco Chips,19341,566,34.17137809187279
+Oby Sorrel,85% Dark Bars,19306,574,33.63414634146341
+Wilone O'Kielt,Milk Bars,5313,158,33.62658227848101
+Rafaelita Blaksland,Manuka Honey Choco,4396,131,33.55725190839695
+Jehu Rudeforth,Smooth Sliky Salty,13580,405,33.53086419753087
+Madelene Upcott,Milk Bars,16170,485,33.34020618556701
+Curtice Advani,Peanut Butter Cubes,21476,662,32.44108761329305
+Jan Morforth,After Nines,11011,340,32.38529411764706
+Wilone O'Kielt,Baker's Choco Chips,6797,213,31.910798122065728
+Madelene Upcott,Raspberry Choco,27125,853,31.79953106682298
+Madelene Upcott,Choco Coated Almonds,24626,777,31.693693693693692
+Kelci Walkden,99% Dark & Pure,21539,680,31.675
+Andria Kimpton,50% Dark Bites,23947,758,31.592348284960423
+Husein Augar,Eclairs,21420,686,31.224489795918366
+Ches Bonnell,70% Dark Bites,7707,247,31.20242914979757
+Mallorie Waber,50% Dark Bites,7826,251,31.179282868525895
+Marney O'Breen,Choco Coated Almonds,13937,447,31.17897091722595
+Dotty Strutley,Spicy Special Slims,9135,295,30.966101694915253
+Gunar Cockshoot,Drinking Coco,6160,200,30.8
+Brien Boise,Mint Chip Choco,15673,509,30.791748526522593
+Brien Boise,White Choc,15687,510,30.758823529411764
+Jehu Rudeforth,After Nines,8708,284,30.661971830985916
+Van Tuxwell,Almond Choco,20328,666,30.52252252252252
+Mallorie Waber,Drinking Coco,7371,242,30.458677685950413
+Van Tuxwell,After Nines,14336,471,30.437367303609342
+Roddy Speechley,Manuka Honey Choco,9583,315,30.42222222222222
+Camilla Castle,Drinking Coco,12950,427,30.327868852459016
+Brien Boise,99% Dark & Pure,26397,871,30.30654420206659
+Curtice Advani,50% Dark Bites,13643,459,29.723311546840957
+Dotty Strutley,99% Dark & Pure,23856,805,29.63478260869565
+Kaine Padly,Peanut Butter Cubes,21791,736,29.60733695652174
+Brien Boise,Organic Choco Syrup,21133,715,29.556643356643356
+Jehu Rudeforth,Mint Chip Choco,5320,180,29.555555555555557
+Mallorie Waber,Smooth Sliky Salty,6097,207,29.454106280193237
+Andria Kimpton,Almond Choco,9751,333,29.28228228228228
+Marney O'Breen,Peanut Butter Cubes,22155,760,29.151315789473685
+Dennison Crosswaite,Drinking Coco,16093,553,29.10126582278481
+Jehu Rudeforth,Peanut Butter Cubes,19404,668,29.047904191616766
+Karlen McCaffrey,Spicy Special Slims,10738,370,29.021621621621623
+Barr Faughny,Almond Choco,5943,205,28.990243902439026
+Brien Boise,Eclairs,12929,448,28.859375
+Beverie Moffet,99% Dark & Pure,3486,121,28.8099173553719
+Gigi Bohling,Peanut Butter Cubes,4781,166,28.801204819277107
+Van Tuxwell,Fruit & Nut Bars,9275,323,28.71517027863777
+Kelci Walkden,Raspberry Choco,8862,310,28.587096774193547
+Beverie Moffet,Almond Choco,5572,196,28.428571428571427
+Barr Faughny,Caramel Stuffed Bars,12817,453,28.293598233995585
+Oby Sorrel,Orange Choco,16072,575,27.95130434782609
+Andria Kimpton,Drinking Coco,3157,113,27.938053097345133
+Kelci Walkden,50% Dark Bites,6188,223,27.748878923766817
+Kaine Padly,Mint Chip Choco,4403,159,27.69182389937107
+Oby Sorrel,Milk Bars,20370,743,27.415881561238223
+Husein Augar,Peanut Butter Cubes,6580,241,27.30290456431535
+Dennison Crosswaite,Milk Bars,23149,849,27.266195524146053
+Marney O'Breen,Spicy Special Slims,16653,611,27.25531914893617
+Roddy Speechley,Mint Chip Choco,6797,252,26.97222222222222
+Madelene Upcott,Orange Choco,14455,536,26.96828358208955
+Barr Faughny,Peanut Butter Cubes,2100,78,26.923076923076923
+Wilone O'Kielt,Fruit & Nut Bars,10255,381,26.916010498687665
+Beverie Moffet,Fruit & Nut Bars,11767,438,26.865296803652967
+Roddy Speechley,Eclairs,14609,546,26.756410256410255
+Jehu Rudeforth,Baker's Choco Chips,4571,171,26.730994152046783
+Rafaelita Blaksland,Raspberry Choco,6916,259,26.7027027027027
+Husein Augar,Drinking Coco,3003,113,26.575221238938052
+Gigi Bohling,After Nines,15477,583,26.547169811320753
+Gigi Bohling,Smooth Sliky Salty,9051,342,26.464912280701753
+Jan Morforth,Fruit & Nut Bars,16198,615,26.338211382113823
+Husein Augar,70% Dark Bites,11585,442,26.210407239819006
+Karlen McCaffrey,Orange Choco,14217,550,25.849090909090908
+Wilone O'Kielt,Smooth Sliky Salty,7721,299,25.82274247491639
+Karlen McCaffrey,Raspberry Choco,16394,635,25.81732283464567
+Dennison Crosswaite,Mint Chip Choco,21721,844,25.73578199052133
+Beverie Moffet,Smooth Sliky Salty,33901,1324,25.604984894259818
+Roddy Speechley,85% Dark Bars,9044,355,25.47605633802817
+Oby Sorrel,50% Dark Bites,7336,288,25.47222222222222
+Jehu Rudeforth,Orange Choco,17927,708,25.320621468926554
+Curtice Advani,Eclairs,6517,258,25.25968992248062
+Gunar Cockshoot,Mint Chip Choco,12012,477,25.18238993710692
+Kelci Walkden,Eclairs,17213,684,25.165204678362574
+Camilla Castle,70% Dark Bites,15764,628,25.101910828025478
+Gigi Bohling,70% Dark Bites,9576,382,25.06806282722513
+Beverie Moffet,Spicy Special Slims,12082,483,25.014492753623188
+Gunar Cockshoot,99% Dark & Pure,7959,319,24.94984326018809
+Gunar Cockshoot,After Nines,16737,679,24.649484536082475
+Curtice Advani,Mint Chip Choco,16177,657,24.622526636225267
+Marney O'Breen,70% Dark Bites,8603,352,24.44034090909091
+Wilone O'Kielt,Manuka Honey Choco,8008,328,24.414634146341463
+Brien Boise,Raspberry Choco,9800,403,24.317617866004962
+Kelci Walkden,After Nines,26390,1094,24.122486288848265
+Beverie Moffet,Organic Choco Syrup,14504,602,24.093023255813954
+Brien Boise,70% Dark Bites,13566,564,24.0531914893617
+Kelci Walkden,Fruit & Nut Bars,18648,776,24.030927835051546
+Ches Bonnell,Milk Bars,6797,283,24.01766784452297
+Kelci Walkden,Mint Chip Choco,2870,120,23.916666666666668
+Dennison Crosswaite,Smooth Sliky Salty,17052,721,23.650485436893202
+Barr Faughny,Smooth Sliky Salty,3990,169,23.609467455621303
+Roddy Speechley,Choco Coated Almonds,5873,249,23.586345381526105
+Dotty Strutley,Eclairs,9065,387,23.42377260981912
+Oby Sorrel,Choco Coated Almonds,9373,404,23.20049504950495
+Marney O'Breen,After Nines,8953,386,23.194300518134714
+Brien Boise,Smooth Sliky Salty,12670,548,23.12043795620438
+Gigi Bohling,Baker's Choco Chips,10528,456,23.087719298245613
+Jehu Rudeforth,Choco Coated Almonds,4270,185,23.08108108108108
+Jehu Rudeforth,99% Dark & Pure,14973,659,22.720789074355082
+Andria Kimpton,After Nines,3115,138,22.57246376811594
+Oby Sorrel,After Nines,2345,104,22.548076923076923
+Husein Augar,Baker's Choco Chips,3038,135,22.503703703703703
+Van Tuxwell,Peanut Butter Cubes,6342,282,22.48936170212766
+Roddy Speechley,Milk Bars,8862,400,22.155
+Roddy Speechley,White Choc,5887,268,21.96641791044776
+Kaine Padly,Almond Choco,10157,465,21.843010752688173
+Barr Faughny,Drinking Coco,8456,389,21.737789203084834
+Dotty Strutley,Mint Chip Choco,15785,728,21.682692307692307
+Wilone O'Kielt,Caramel Stuffed Bars,6209,287,21.634146341463413
+Jehu Rudeforth,70% Dark Bites,5565,258,21.569767441860463
+Curtice Advani,Raspberry Choco,2996,139,21.553956834532375
+Dennison Crosswaite,Eclairs,8687,405,21.44938271604938
+Camilla Castle,50% Dark Bites,15183,712,21.32443820224719
+Madelene Upcott,85% Dark Bars,9079,430,21.113953488372093
+Curtice Advani,White Choc,8694,415,20.949397590361446
+Mallorie Waber,85% Dark Bars,14315,691,20.716353111432706
+Jehu Rudeforth,50% Dark Bites,12656,612,20.679738562091504
+Gunar Cockshoot,Smooth Sliky Salty,4501,218,20.646788990825687
+Camilla Castle,99% Dark & Pure,7140,350,20.4
+Jehu Rudeforth,White Choc,15848,780,20.317948717948717
+Camilla Castle,Caramel Stuffed Bars,7315,363,20.151515151515152
+Dotty Strutley,85% Dark Bars,10220,508,20.118110236220474
+Ches Bonnell,Baker's Choco Chips,7462,371,20.11320754716981
+Beverie Moffet,Choco Coated Almonds,6587,330,19.96060606060606
+Dennison Crosswaite,Orange Choco,5355,269,19.907063197026023
+Mallorie Waber,Organic Choco Syrup,5075,256,19.82421875
+Gunar Cockshoot,Organic Choco Syrup,9527,481,19.806652806652806
+Rafaelita Blaksland,After Nines,5838,296,19.722972972972972
+Wilone O'Kielt,Organic Choco Syrup,8617,440,19.58409090909091
+Van Tuxwell,Choco Coated Almonds,8015,410,19.548780487804876
+Karlen McCaffrey,Manuka Honey Choco,12614,648,19.46604938271605
+Karlen McCaffrey,Peanut Butter Cubes,3094,159,19.459119496855347
+Jehu Rudeforth,Drinking Coco,10192,527,19.33965844402277
+Oby Sorrel,Raspberry Choco,18774,978,19.196319018404907
+Barr Faughny,Mint Chip Choco,17577,926,18.981641468682504
+Jan Morforth,Choco Coated Almonds,2541,134,18.96268656716418
+Gigi Bohling,Orange Choco,8778,463,18.958963282937365
+Mallorie Waber,Spicy Special Slims,5439,287,18.951219512195124
+Oby Sorrel,White Choc,6076,326,18.63803680981595
+Ches Bonnell,Eclairs,6482,349,18.573065902578797
+Kelci Walkden,Almond Choco,13356,732,18.24590163934426
+Jan Morforth,50% Dark Bites,8652,475,18.214736842105264
+Barr Faughny,Manuka Honey Choco,8876,488,18.188524590163933
+Jehu Rudeforth,Manuka Honey Choco,3584,200,17.92
+Curtice Advani,Drinking Coco,5642,316,17.854430379746834
+Marney O'Breen,50% Dark Bites,4053,230,17.621739130434783
+Madelene Upcott,Spicy Special Slims,7182,408,17.602941176470587
+Gunar Cockshoot,Almond Choco,10234,583,17.554030874785592
+Kelci Walkden,85% Dark Bars,3997,228,17.530701754385966
+Andria Kimpton,99% Dark & Pure,1155,66,17.5
+Jan Morforth,Caramel Stuffed Bars,12719,735,17.304761904761904
+Karlen McCaffrey,Eclairs,14742,856,17.22196261682243
+Husein Augar,Choco Coated Almonds,7714,451,17.104212860310422
+Gunar Cockshoot,Raspberry Choco,10101,594,17.005050505050505
+Husein Augar,Caramel Stuffed Bars,15435,908,16.998898678414097
+Brien Boise,Caramel Stuffed Bars,4221,249,16.951807228915662
+Karlen McCaffrey,Baker's Choco Chips,9765,578,16.89446366782007
+Van Tuxwell,Mint Chip Choco,6720,398,16.884422110552762
+Andria Kimpton,Manuka Honey Choco,14602,865,16.88092485549133
+Dennison Crosswaite,Manuka Honey Choco,5061,301,16.813953488372093
+Jehu Rudeforth,Spicy Special Slims,6860,411,16.690997566909974
+Andria Kimpton,Orange Choco,8470,509,16.640471512770137
+Jan Morforth,Orange Choco,9184,553,16.60759493670886
+Roddy Speechley,Caramel Stuffed Bars,8911,543,16.410681399631677
+Karlen McCaffrey,Smooth Sliky Salty,3017,184,16.39673913043478
+Karlen McCaffrey,Caramel Stuffed Bars,8680,531,16.346516007532955
+Mallorie Waber,Milk Bars,6342,388,16.34536082474227
+Ches Bonnell,After Nines,5705,350,16.3
+Jan Morforth,70% Dark Bites,11116,689,16.133526850507984
+Gigi Bohling,Raspberry Choco,10234,638,16.04075235109718
+Wilone O'Kielt,85% Dark Bars,1827,117,15.615384615384615
+Husein Augar,Milk Bars,854,56,15.25
+Brien Boise,Almond Choco,7056,468,15.076923076923077
+Andria Kimpton,Smooth Sliky Salty,1155,79,14.620253164556962
+Kelci Walkden,Baker's Choco Chips,5985,412,14.526699029126213
+Barr Faughny,Organic Choco Syrup,3444,238,14.470588235294118
+Mallorie Waber,White Choc,7371,531,13.88135593220339
+Dotty Strutley,Orange Choco,3409,253,13.474308300395258
+Oby Sorrel,Eclairs,11774,913,12.895947426067908
+Curtice Advani,Organic Choco Syrup,4263,333,12.801801801801801
+Van Tuxwell,Drinking Coco,10703,845,12.666272189349112
+Ches Bonnell,White Choc,9583,769,12.461638491547465
+Rafaelita Blaksland,Fruit & Nut Bars,3087,250,12.348
+Dotty Strutley,50% Dark Bites,3108,252,12.333333333333334
+Marney O'Breen,Milk Bars,12390,1011,12.25519287833828
+Gunar Cockshoot,Caramel Stuffed Bars,2471,202,12.232673267326733
+Karlen McCaffrey,50% Dark Bites,13244,1083,12.22899353647276
+Camilla Castle,Mint Chip Choco,6139,507,12.108481262327416
+Beverie Moffet,Drinking Coco,8190,682,12.008797653958945
+Andria Kimpton,Peanut Butter Cubes,8764,732,11.972677595628415
+Madelene Upcott,Caramel Stuffed Bars,3535,296,11.942567567567568
+Beverie Moffet,Milk Bars,11403,963,11.841121495327103
+Oby Sorrel,Fruit & Nut Bars,1869,158,11.829113924050633
+Andria Kimpton,Eclairs,2457,209,11.75598086124402
+Dennison Crosswaite,Spicy Special Slims,2527,216,11.699074074074074
+Dotty Strutley,Choco Coated Almonds,7378,632,11.674050632911392
+Curtice Advani,Manuka Honey Choco,3213,276,11.641304347826088
+Wilone O'Kielt,Drinking Coco,5040,436,11.559633027522937
+Camilla Castle,Eclairs,4515,392,11.517857142857142
+Marney O'Breen,Caramel Stuffed Bars,9282,807,11.50185873605948
+Jan Morforth,85% Dark Bars,4760,418,11.38755980861244
+Ches Bonnell,Manuka Honey Choco,4221,395,10.686075949367089
+Madelene Upcott,After Nines,4571,430,10.630232558139534
+Marney O'Breen,85% Dark Bars,3423,328,10.435975609756097
+Beverie Moffet,70% Dark Bites,2723,261,10.432950191570882
+Kaine Padly,Drinking Coco,2317,224,10.34375
+Jan Morforth,Manuka Honey Choco,4977,483,10.304347826086957
+Kaine Padly,Orange Choco,1960,191,10.261780104712042
+Gigi Bohling,Milk Bars,4893,481,10.172557172557173
+Karlen McCaffrey,70% Dark Bites,13153,1298,10.133281972265022
+Rafaelita Blaksland,Organic Choco Syrup,994,105,9.466666666666667
+Mallorie Waber,Caramel Stuffed Bars,4844,539,8.987012987012987
+Barr Faughny,Milk Bars,3864,430,8.986046511627906
+Curtice Advani,85% Dark Bars,6762,761,8.885676741130093
+Kaine Padly,Smooth Sliky Salty,9023,1072,8.416977611940299
+Karlen McCaffrey,Drinking Coco,5075,612,8.292483660130719
+Karlen McCaffrey,Organic Choco Syrup,2415,312,7.740384615384615
+Kaine Padly,85% Dark Bars,2212,290,7.627586206896551
+Husein Augar,85% Dark Bars,378,54,7.0
+Dennison Crosswaite,Fruit & Nut Bars,2366,342,6.918128654970761
+Curtice Advani,Spicy Special Slims,6692,985,6.793908629441624
+Curtice Advani,Orange Choco,854,136,6.279411764705882
+Husein Augar,Organic Choco Syrup,938,158,5.936708860759493
+Dotty Strutley,70% Dark Bites,1267,216,5.8657407407407405
+Kelci Walkden,Spicy Special Slims,735,134,5.485074626865671
+Dotty Strutley,Fruit & Nut Bars,3178,587,5.4139693356047704
+Jan Morforth,Organic Choco Syrup,2996,563,5.321492007104796
+Beverie Moffet,50% Dark Bites,5649,1080,5.230555555555555
+Roddy Speechley,70% Dark Bites,1421,284,5.003521126760563
+Dennison Crosswaite,Caramel Stuffed Bars,2317,464,4.993534482758621
+Ches Bonnell,99% Dark & Pure,455,96,4.739583333333333
+Gunar Cockshoot,Baker's Choco Chips,2191,524,4.181297709923665
+Andria Kimpton,Fruit & Nut Bars,1456,359,4.055710306406685
+Kelci Walkden,Caramel Stuffed Bars,476,125,3.808
+Jan Morforth,Spicy Special Slims,1939,520,3.728846153846154
+Karlen McCaffrey,Fruit & Nut Bars,1596,472,3.3813559322033897
+Kaine Padly,99% Dark & Pure,1288,409,3.1491442542787285
+Gigi Bohling,99% Dark & Pure,784,249,3.1485943775100402
+Andria Kimpton,Baker's Choco Chips,329,109,3.018348623853211
+Rafaelita Blaksland,70% Dark Bites,679,280,2.425
+Mallorie Waber,After Nines,483,228,2.1184210526315788
+Dotty Strutley,After Nines,252,237,1.0632911392405062
+Dotty Strutley,Drinking Coco,91,135,0.674074074074074

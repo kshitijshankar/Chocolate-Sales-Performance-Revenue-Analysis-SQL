@@ -1,0 +1,49 @@
+Sales_Month,Country,Total_Revenue
+1,UK,188531
+1,Australia,187383
+1,Canada,143997
+1,India,143430
+1,New Zealand,124488
+1,USA,108276
+2,Canada,134456
+2,New Zealand,132293
+2,Australia,126406
+2,USA,122430
+2,UK,99904
+2,India,83888
+3,Australia,165431
+3,New Zealand,139020
+3,Canada,129409
+3,USA,114072
+3,UK,105518
+3,India,96033
+4,USA,135086
+4,Australia,120561
+4,India,117383
+4,UK,105973
+4,New Zealand,105854
+4,Canada,89194
+5,USA,156394
+5,UK,154742
+5,India,141099
+5,Australia,124264
+5,New Zealand,91301
+5,Canada,85092
+6,UK,208621
+6,New Zealand,166838
+6,Australia,145719
+6,India,140413
+6,USA,116305
+6,Canada,87248
+7,India,175308
+7,USA,160104
+7,Canada,159166
+7,Australia,131082
+7,UK,95053
+7,New Zealand,82712
+8,India,148246
+8,Australia,136521
+8,Canada,134337
+8,USA,122682
+8,New Zealand,107912
+8,UK,93450
